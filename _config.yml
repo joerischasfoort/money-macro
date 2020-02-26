@@ -39,7 +39,7 @@ avatar: "/img/Money & Macro-logos.jpeg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F7BF4F"
+navbar-col: "#FFFFFF"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#F7BF4F"
