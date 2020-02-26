@@ -42,7 +42,7 @@ avatar: "/img/Money & Macro-logos.jpeg"
 navbar-col: "#F7BF4F"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
-page-col: "#FFFFFF"
+page-col: "#F7BF4F"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#F5F5F5"
@@ -61,7 +61,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Co-Pierre Georg
+  name: Joeri Schasfoort
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
