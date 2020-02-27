@@ -29,11 +29,11 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-#avatar: "/img/Money & Macro-logos.jpeg"
+avatar: "/img/money_macro.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: "/img/money_macro.png"
+#title-img: "/img/money_macro.png"
 
 # --- Background colour/image options --- #
 
