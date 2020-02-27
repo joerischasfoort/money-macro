@@ -33,7 +33,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: "/img/Money & Macro-logos.jpeg"
+title-img: "/img/money_macro.jpeg"
 
 # --- Background colour/image options --- #
 
@@ -102,7 +102,7 @@ url-pretty: "joerischasfoort.github.io/money-macro/"  # eg. "deanattali.com/beau
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-159253840-1"
 
 # Google Tag Manager ID
 #gtm: ""
