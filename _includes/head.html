@@ -120,6 +120,8 @@
   <meta name="twitter:image" content="{{ site.avatar | absolute_url }}" />
   {% endif %}
 
+  {% include cookieconsent.html %}
+
   {% if site.matomo %}
   {% include matomo.html %}
   {% endif %}
