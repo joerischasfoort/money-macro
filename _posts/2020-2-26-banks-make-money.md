@@ -56,8 +56,6 @@ This also leads us to the third constraint on bank lending, that is liquidity. N
 
 So let's wrap this up. Yes, banks create money. No, they do not do so by getting cash from you and then lending over and over till they reach the reserve requirement limit. The reserve requirement is not a hard limit on money creation because central banks create new reserves to support healthy but cash strained banks. Remember, even though banks can technically ‘create money’, they can still fail because they do have to pay back that money. There are some other important soft limits on bank money creation though. These are the public’s demand for debt, capital requirements, and liquidity concerns.
 
-![logo](/img/money_macro.png){:class="img-responsive"}
-
 ### Further reading
 If this topic has peaked your interest and you would like to know more about it. I've suggested some excellent books below:
 
