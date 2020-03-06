@@ -36,6 +36,7 @@ As long as enough customers will repay their loans, it is profitable for the ban
 ### Differences with the money multiplier myth
 
 So, let’s go over the two most important differences with the money multiplier story. The first is about the order of events and the second is about what constrains money creation. The first difference is all about timing. If we believe the money multiplier story. The timing is as follows. Step 1: the central bank creates cash which then ends up in the economy. Step 2: people bring cash to the bank. Step 3: banks keep a fraction of that cash at the central bank and lend out the rest. This is the money creation part. Step 4: this will happen again and again till it is no longer possible. Now, contrast this to the timing of the actual money creation story. Step 1: a customer goes to the bank for a loan. Step 2: The customer and bank both issue a debt. The debt the bank has issued is newly created money. Step 3: The customer will use this to make payments. Alternatively, the customer can go to the ATM to convert bank money into cash. This is facilitated by the central bank which will lend it out to the bank provided that the bank made prudent loans.
+
 The money multiplier story starts with the central bank creating cash and someone bringing that to a bank. In real life, no initial central bank money is needed for loans to be created. That is a clear difference. So, does that mean that central bank money or –reserves—don’t matter at all? Well that brings us to the second difference. The second difference is all about what keeps banks from creating unlimited money. The money multiplier story is very clear on this. The total amount of money is constricted by the reserve requirement which is set by the central bank. There is just one tiny problem with this.
 
 Reserve requirements do not constrain money creation because almost all central banks have a policy in place that facilitates reserve creation on demand. What does that mean? It means that if a bank goes to the central bank and asks for more reserves, the central bank will almost always create them and lend them to that bank. So, yeah, as you can imagine, that kind off does away with the reserve requirement limit on money creation. If central banks create more reserves on demand, then banks will ask for more if they are ever at risk of hitting the requirement ratio.
@@ -54,6 +55,8 @@ This also leads us to the third constraint on bank lending, that is liquidity. N
 ### Conclusion
 
 So let's wrap this up. Yes, banks create money. No, they do not do so by getting cash from you and then lending over and over till they reach the reserve requirement limit. The reserve requirement is not a hard limit on money creation because central banks create new reserves to support healthy but cash strained banks. Remember, even though banks can technically ‘create money’, they can still fail because they do have to pay back that money. There are some other important soft limits on bank money creation though. These are the public’s demand for debt, capital requirements, and liquidity concerns.
+
+![logo](/img/money_macro.png){:class="img-responsive"}
 
 ### Further reading
 If this topic has peaked your interest and you would like to know more about it. I've suggested some excellent books below:
