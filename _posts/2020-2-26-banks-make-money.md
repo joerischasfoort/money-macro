@@ -58,10 +58,10 @@ So let's wrap this up. Yes, banks create money. No, they do not do so by getting
 ### Further reading
 If this topic has peaked your interest and you would like to know more about it. I've suggested some excellent books below:
 
-* [Where Does Money Come From?](https://amzn.to/2PuJ7y6), excellent introduction on where money comes from by some of the leading forces behind the positive money movement.
-* [The end of alchemy](https://amzn.to/32yfz7P), excellent book written by the former governor of the Bank of England: Mervyn King;
-* [Debt: The First 5,000 Years](https://amzn.to/2T1hTRU), historical account of debt as money;
-* [The New Paradigm in Macroeconomics: Solving the Riddle of Japanese Macroeconomic Performance](https://amzn.to/39azgW8), interesting account on how bank money creation powered the Japanese economic miracle;
-* [Modern Money Theory: A Primer on Macroeconomics for Sovereign Monetary Systems](https://amzn.to/383fY3l), introduction to the popular Modern Money Theory (MMT), a macroeconomic school of thought with bank money creation at the heart of it.
+* Where Does Money Come From? (https://amzn.to/2PuJ7y6), excellent introduction on where money comes from by some of the leading forces behind the positive money movement.
+* The end of alchemy (https://amzn.to/32yfz7P), excellent book written by the former governor of the Bank of England: Mervyn King;
+* Debt: The First 5,000 Years (https://amzn.to/2T1hTRU), historical account of debt as money;
+* The New Paradigm in Macroeconomics: Solving the Riddle of Japanese Macroeconomic Performance (https://amzn.to/39azgW8), interesting account on how bank money creation powered the Japanese economic miracle;
+* Modern Money Theory: A Primer on Macroeconomics for Sovereign Monetary Systems (https://amzn.to/383fY3l), introduction to the popular Modern Money Theory (MMT), a macroeconomic school of thought with bank money creation at the heart of it.
 
-*Note that these are Amazon affiliate links. This means that, you can support the blog by buying these books through them.*
+*Note that moneymacro.rocks is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means to earn fees when linking to Amazon.com and affiliated sites*
