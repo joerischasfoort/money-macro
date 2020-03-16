@@ -13,6 +13,9 @@ This was just after the [Great Recession](https://en.wikipedia.org/wiki/Great_Re
 
 Sure, doing this too much and structurally will cause inflation. But, at least in a crisis, in which only temporary cash is needed, the central bank can help. For Eurozone countries, this was not an option. They had to borrow extra Euros from private investors. But no investor is big enough to lend so much to a country that they can turn the economy around. It will need to trust that other investors will invest at the same time. So, individual investors take a huge risk in doing so and, logically, for countries that were in trouble, interest rates went up astronomically, making new borrowing unaffordable.
 
+![png](../img/vox-eu-euro-rates.png)
+*Figure from Vox EU*
+
 These countries had to choose, cut back spending to be able to pay these excessive interest rates or get of the Euro and go back to their own currency. Having their own currency, they could repay the debt. Sure, this currency would drop massively in value, and it would still be in huge trouble. But, at least it has immediate excess to emergency funding in a crisis.
 
 In 2011, Greece was not so lucky. It was in deep trouble, after having gone on an unproductive borrowing spree on the back of a massive real estate boom, real estate crashed and so did its economy. It tried to borrow emergency funds from investors. But no-one would lend to them an affordable interest rate.
