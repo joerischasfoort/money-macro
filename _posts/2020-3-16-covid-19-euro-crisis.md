@@ -4,6 +4,10 @@ title: How Covid-19 will impact the Euro
 ---
 In 2011, the Eurozone was almost broken up in a period of time that came to be known as the Euro crisis. Now, with Europe being at the centre of a new major Covid19 outbreak, economists and investors are [wondering](https://www.ft.com/content/d8086302-6545-11ea-a6cd-df28cc3c6a68) whether it will trigger a new Euro crisis. Will the Eurozone crumble and will the Euro currency disappear when the smoke clear?
 
+*If you prefer to consume this story in video format, check it out here:*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k5pdHVzImsA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Introduction
 To understand why the Eurozone is at risk, we need to go back to 2012. Back then, Corona was just a Mexican beer, Greece got a massive 130 billion Euro bail-out, and David Cameron (then UK prime minister) made a [speech](https://www.bbc.com/news/av/uk-18104553/eurozone-must-make-up-or-break-up-says-pm) stating "The Eurozone is at a cross-roads. It either has to make-up or it is looking at a potential break-up."
 
@@ -71,10 +75,6 @@ The different response from politicians now when compared to the previous Euro z
 Sadly, no one knows for sure. The Eurozone has never been hit by an economic shock of this size. The massive quarantine efforts to combat Covid19 will hit the Eurozone economy hard. A lack of buffers and quite [a lot of debt](https://www.globalcapital.com/article/b1j2rxdsj6frd8/more-mandates-as-european-corporate-debt-soars-to-64tr) means that Eurozone companies and banks will be under a lot of stress. This will inevitably affect government budgets. However, the difference with last time is that politicians now show a willingness to save the Euro.
 
 For now, I remain hopeful that the Eurozone will be able to whether the economic fallout. That being said, there are few certainties in economics. So, it is important to keep up to date. You can do so by following this blog, where I will post regular content on economics, central banking, and finance.
-
-Also, if you liked the blog, you might like the video:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k5pdHVzImsA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Also, please consider sharing this blog using the buttons below or dropping a comment. I am keen to discuss with you further about how the Eurozone will be affected by Covid-19.
 
