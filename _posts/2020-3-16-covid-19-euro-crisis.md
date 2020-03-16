@@ -62,15 +62,15 @@ To calm initial panic on financial markets, Italian and Spanish market regulator
 
 This made it so surprising that the German finance minister came out declaring that he brought an economic [Bazooka](https://www.thetimes.co.uk/article/germany-deploys-bazooka-to-defend-companies-wf3q8bkf8) (or [Panzershreck](https://en.wikipedia.org/wiki/Panzerschreck)) to counter the effects of the Corona virus. The state investment bank will provide an almost endless supply of loans to struggling companies. Furthermore, companies will be allowed to postpone paying billions in taxes. In addition, the Germans rushed through a bill that supports companies that put their workers on reduced hours. These unexpected moves from Germany might motivate other Eurozone politicians to do the same.
 
-Finally, the European commission also signalled a willingness to spend. The Ursula von der Leyen, the new president of the European commission, announced that strict rules on government borrowing of members will be temporarily lifted. Furthermore, she announced that the commission will mobilise 37 billion extra funds to combat the impact of the virus.
+Finally, the European commission also signalled a [willingness to spend](https://ec.europa.eu/info/live-work-travel-eu/health/coronavirus-response/economy_en). The Ursula von der Leyen, the new president of the European commission, announced that strict rules on government borrowing of members will be temporarily lifted. Furthermore, she announced that the commission will mobilise 37 billion extra funds to combat the impact of the virus.
 
 The different response from politicians now when compared to the previous Euro zone crisis is remarkable! But, will it be enough to prevent another crisis?
 
 ### Conclusion
 
-Sadly, no one knows for sure. The Eurozone has never been hit by an economic shock of this size. The massive quarantine efforts to combat Covid19 will hit the Eurozone economy hard. A lack of buffers and quite a lot of debt means that Eurozone companies and banks will be under a lot of stress. This will inevitably affect government budgets. However, the difference with last time is that politicians now show a willingness to save the Euro.
+Sadly, no one knows for sure. The Eurozone has never been hit by an economic shock of this size. The massive quarantine efforts to combat Covid19 will hit the Eurozone economy hard. A lack of buffers and quite [a lot of debt](https://www.globalcapital.com/article/b1j2rxdsj6frd8/more-mandates-as-european-corporate-debt-soars-to-64tr) means that Eurozone companies and banks will be under a lot of stress. This will inevitably affect government budgets. However, the difference with last time is that politicians now show a willingness to save the Euro.
 
-For now, I remain hopeful that the Eurozone will be able to whether the economic fallout. That being said, there are few certainties in economics. So, it is important to keep up to date. You can do so by subscribing to this channel, where I will post regular content on economics, central banking, and finance.
+For now, I remain hopeful that the Eurozone will be able to whether the economic fallout. That being said, there are few certainties in economics. So, it is important to keep up to date. You can do so by following this blog, where I will post regular content on economics, central banking, and finance.
 
 Also, if you liked the blog, you might like the video:
 
