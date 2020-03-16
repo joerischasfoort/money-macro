@@ -2,7 +2,7 @@
 layout: post
 title: How Covid-19 will impact the Euro
 ---
-In 2011, the Eurozone was almost broken up in a period of time that came to be known as the Euro crisis. Now, with Europe being at the centre of a new major Covid19 outbreak, economists and investors are [wondering](https://www.ft.com/content/d8086302-6545-11ea-a6cd-df28cc3c6a68) whether it will trigger a new Euro crisis. Will the Eurozone crumble and will the Euro currency disappear when the smoke clear?
+In 2011, the Eurozone was almost broken up in a period of time that came to be known as the Euro crisis. Now, with Europe being at the centre of a new major Covid19 outbreak, economists and investors are [wondering](https://www.ft.com/content/d8086302-6545-11ea-a6cd-df28cc3c6a68) whether it will trigger a new Euro crisis. Will the Eurozone crumble and will the Euro currency disappear when the smoke clears?
 
 *If you prefer to consume this story in video format, check it out here:*
 
