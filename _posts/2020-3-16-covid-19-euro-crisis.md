@@ -71,7 +71,7 @@ For now, I remain hopeful that the Eurozone will be able to whether the economic
 
 Also, if you liked the blog, you might like the video:
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/k5pdHVzImsA" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k5pdHVzImsA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Also, please consider sharing this blog using the buttons below or dropping a comment. I am keen to discuss with you further about how the Eurozone will be affected by Covid-19.
 
