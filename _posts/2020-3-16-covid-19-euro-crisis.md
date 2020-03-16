@@ -1,12 +1,12 @@
 ---
 layout: post
-title: How banks make money
+title: How Covid-19 will impact the Euro
 ---
 *By Joeri Schasfoort*
 
 In 2011, the Eurozone was almost broken up in a period of time that came to be known as the Euro crisis. Now, with Europe being at the centre of a new major Covid19 outbreak, economists and investors are wondering whether it will trigger a new Euro crisis. Will the Eurozone crumble and will the Euro currency disappear when the smoke clear?
 
- 
+
 
 
 ### Further reading
