@@ -6,7 +6,8 @@ layout: null
   <channel>
     <title>{{ site.title | xml_escape }}</title>
     <description>{{ site.description | xml_escape }}</description>
-    <link>{{ '' | absolute_url }}</link>
+    <!-- <link>{{ '' | absolute_url }}</link> -->
+    <link href='http://www.moneymacro.rocks/feed.xml' rel='alternate' type='application/atom+xml'>
     <atom:link href="{{ 'feed.xml' | absolute_url }}" rel="self" type="application/rss+xml" />
     {% for post in site.posts limit:20 %}
       <item>
