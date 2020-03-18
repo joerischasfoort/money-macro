@@ -2,8 +2,6 @@
 layout: post
 title: How banks make money
 ---
-*By Joeri Schasfoort*
-
 Many economic textbooks and popular YouTube movies teach an outdated theory about how banks create money. This post covers what is wrong with it,
 
 The outdated money theory is known as the money multiplier theory and it is closely related to the idea of fractional reserve banking. While this theory was popular for many decades, top [economists](https://www.amazon.com/Between-Debt-Devil-Credit-Finance/dp/0691169640/ref=as_li_ss_tl?keywords=debt+and+the+devil&qid=1582217685&sr=8-1&linkCode=ll1&tag=moneymacro-20&linkId=1f3e70e89b716260ecd3840b7975ed95&language=en_US) and [central](https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-in-the-modern-economy-an-introduction) [banks](https://www.bundesbank.de/en/tasks/topics/how-money-is-created-667392) have since moved on to a new understanding of how banks create money. It is time that the rest of us do the same.
@@ -55,6 +53,8 @@ This also leads us to the third constraint on bank lending, that is liquidity. N
 ### Conclusion
 
 So let's wrap this up. Yes, banks create money. No, they do not do so by getting cash from you and then lending over and over till they reach the reserve requirement limit. The reserve requirement is not a hard limit on money creation because central banks create new reserves to support healthy but cash strained banks. Remember, even though banks can technically ‘create money’, they can still fail because they do have to pay back that money. There are some other important soft limits on bank money creation though. These are the public’s demand for debt, capital requirements, and liquidity concerns.
+
+*Written by Joeri Schasfoort*
 
 ### Further reading
 If this topic has peaked your interest and you would like to know more about it. I've suggested some excellent books below:
