@@ -8,7 +8,7 @@ as robust as you might think and is at a high risk of a sustained slump.
 
 *If you prefer to consume this story in video format, check it out here:*
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k5pdHVzImsA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JdtE0zP9P_Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Introduction
 These last few years, the Dutch Finance ministry has built a reputation of being extremely conservative when it comes to spending. So, conservative, that cut government spending just after the recession of 2008, prolonging their economic recovery. However, with the covid-19 epidemic having reached Dutch shores, the Dutch have announced sweeping government spending plans to cushion the blow. Is this economic crisis different than the last and can the Dutch economy withstand it? Or is it more vulnerable than we think?
