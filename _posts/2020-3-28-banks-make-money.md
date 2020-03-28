@@ -6,6 +6,10 @@ Many economic textbooks and popular YouTube movies teach an outdated theory abou
 
 The outdated money theory is known as the money multiplier theory and it is closely related to the idea of fractional reserve banking. While this theory was popular for many decades, top [economists](https://www.amazon.com/Between-Debt-Devil-Credit-Finance/dp/0691169640/ref=as_li_ss_tl?keywords=debt+and+the+devil&qid=1582217685&sr=8-1&linkCode=ll1&tag=moneymacro-20&linkId=1f3e70e89b716260ecd3840b7975ed95&language=en_US) and [central](https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-in-the-modern-economy-an-introduction) [banks](https://www.bundesbank.de/en/tasks/topics/how-money-is-created-667392) have since moved on to a new understanding of how banks create money. It is time that the rest of us do the same.
 
+*If you prefer to consume this story in video format, check it out here:*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNSNX48Kmo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### The mythical money multiplier
 
 The mythical money multiplier theory goes like this: commercial banks are able to create money thanks to something called fractional reserve banking. Fractional reserve banking means that every bank has to hold only a fraction –hence the name-- of the money they receive from people in reserve at the central bank. The rest of it, banks are free to lend out to other people. These people will, then, deposit that money at another bank. That bank also has to hold a fraction at the central bank but can lend out the rest. And, so the process repeats itself until there is no more money left to be lend out. Following the logic of this story, banks can only create a multiple of the original cash supply.
