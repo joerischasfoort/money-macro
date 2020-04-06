@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How central banks try control the money supply using interest rates
+title: How central banks try to control the money supply using interest rates
 ---
 
 With the Coronavirus [ravaging](https://www.imf.org/en/News/Articles/2020/03/23/pr2098-imf-managing-director-statement-following-a-g20-ministerial-call-on-the-coronavirus-emergency) the global economy, central banks have once upon called upon to save the it with policies such as [interest rate cuts](https://www.bloomberg.com/news/articles/2020-03-19/boe-cuts-rate-in-second-emergency-move-to-combat-virus-shock), [quantitative easing](https://www.cnbc.com/2020/03/16/even-after-return-to-qe-infinity-the-federal-reserve-has-some-more-work-to-do.html), and [helicopter money](https://www.afr.com/policy/economy/helicopter-money-is-coming-20200401-p54fyf). But before getting into the more exotic policies, this post will cover how central banks control the money supply using interest rates.
