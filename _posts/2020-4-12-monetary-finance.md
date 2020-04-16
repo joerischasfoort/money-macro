@@ -5,6 +5,10 @@ title: What is monetary finance?
 
 Following in the footsteps of [Zimbabwe](https://www.fin24.com/Economy/Africa/its-official-hyperinflation-has-returned-to-zimbabwe-20191012) and [Venezuela](https://www.forbes.com/sites/stevehanke/2019/11/13/venezuelas-hyperinflation-drags-on-for-a-near-record36-months/#69501f056b7b), the United Kingdom [announced](https://www.nasdaq.com/articles/bank-of-england-to-temporarily-finance-uk-government-spending-2020-04-09) it will turn to monetary finance for its Coronacrisis spending. So, what exactly is monetary finance? Why has the UK started using it? And will it lead to hyperinflation?
 
+*If you prefer to consume this story in video format, check it out here:*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/daG2V9maY2k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Before getting into the specifics, let’s start by discussing what monetary financing is. In short, it means that the central bank directly finances government spending by creating money.
 
 To understand how this works it is easiest to use simple balance sheets.
