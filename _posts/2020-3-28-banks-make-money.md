@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How banks make money
+title: How banks create money
 ---
 Many economic textbooks and popular YouTube movies teach an outdated theory about how banks create money. This post covers what is wrong with it,
 
