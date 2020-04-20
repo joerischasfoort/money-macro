@@ -31,7 +31,7 @@ What makes their lockdown stand out is that there are some extra strict measures
 
 Lebanon has now been in the strictest lockdown phase for 33 days. But what makes their lockdown extra tough, is that they went into it in the middle of a [full blown financial crisis](https://www.reuters.com/article/us-lebanon-crisis-economy-insight/starved-of-dollars-and-drowning-in-debt-lebanons-economy-sinks-fast-idUSKBN20Z1FC). This made the strict lockdown [tougher](https://www.aljazeera.com/ajimpact/war-hunger-grows-lebanon-anger-200417222253896.html) on its citizens as they did not have the financial buffers to deal with it. And while there where already capital controls in place, meaning that citizens could withdraw a maximum of a hundred dollars (foreign currency) daily. Now, that has practically been reduced to [zero](https://www.reuters.com/article/us-lebanon-crisis-banks/in-coronavirus-lockdown-lebanese-banks-turn-off-dollar-tap-for-hard-hit-depositors-idUSKBN2172HA).
 
-### 1 South African
+### 1 South Africa
 
 Speaking of financial buffers, many South Africans never had any [buffers](https://www.iol.co.za/saturday-star/news/we-are-starving-lockdown-hunger-is-driving-vulnerable-people-to-desperation-46869180) to begin with. Nonetheless, the South African government has implemented one of the strictest of strict lockdowns known to man which has now been going on for 33 days.
 
