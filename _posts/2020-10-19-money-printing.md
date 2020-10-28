@@ -56,7 +56,7 @@ The moment that the government promised to subsidise these mines, their owners h
 
 Let’s go through the accounting steps one by one to better understand what happened after that. There were five steps to this process. Remember that we started out with a situation in which the government wanted to get rid of the liability that is the promised subsidy to the gold mines and replace it with money.
 
-The **first step** to do that is, strangely, was for the government to issue another liability. A bond.
+The **first step** to do that is, strangely, was for the government to issue another liability: a bond.
 
 ![step1](../img/step1.png)
 
