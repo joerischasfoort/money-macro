@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Responsible money printing, is it possible?
+title: The Nobel worthy science of auctions
 ---
 
 2020 is not only the year of a massive global pandemic, it is also the year that auction theory won its second [Nobel Prize in Economic sciences](https://www.nobelprize.org/nomination/economic-sciences/). To be more precise, the prize was won by [Paul Milgrom](https://www.nobelprize.org/prizes/economic-sciences/2020/milgrom/facts/) and [Robert Wilson](https://www.nobelprize.org/prizes/economic-sciences/2020/wilson/facts/), two professors at Stanford University, who won the prize for their contributions in making auction theory more practically relevant. Before that, in 1996, [William Vickrey](https://www.nobelprize.org/prizes/economic-sciences/1996/vickrey/facts/) also won the [prize](https://www.nobelprize.org/prizes/economic-sciences/1996/summary/) for his documentation of a specific type of auction that later came to be known as the Vickrey auction.
