@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Simultaneous Multiple Round Auctions and the 2020 Nobel Prize
+title: Simultaneous multiple round auctions and the 2020 Nobel prize
 ---
 
 In this post, I will explore what revolutionary new auction format led to the [Nobel Prize in Economic sciences](https://www.nobelprize.org/nomination/economic-sciences/) in 2020 being awarded to [Paul Milgrom](https://www.nobelprize.org/prizes/economic-sciences/2020/milgrom/facts/) and [Robert Wilson](https://www.nobelprize.org/prizes/economic-sciences/2020/wilson/facts/), two professors at Stanford University.
