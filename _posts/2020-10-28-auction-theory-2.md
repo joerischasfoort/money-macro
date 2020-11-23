@@ -11,7 +11,7 @@ In 1994, two years before [William Vickrey](https://www.nobelprize.org/prizes/ec
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7ORxtyVq0DE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### The goals
+### Spectrum auction goals
 
 Before the economists got to work on how to best sell the telecom frequency licenses, the FCC told them that it had two goals of which the first was by far the most important. Its main goal was that there should be an efficient telecommunications market. This means that citizens have a good service for a decent prize. Second, the FCC indicated that, while the first goal was the most important, it hoped to get a good price for the telecom frequency licenses because the revenue from the sale would benefit the taxpayer in the end.
 
@@ -25,7 +25,7 @@ From an economic perspective, it is advantageous to own several of these frequen
 
 ### The problem with auctions
 
-This complexity is exactly why this problem was so hard for auction theorists. As mentioned in my last [post](http://www.moneymacro.rocks/2020-10-28-auction-theory-1/) on auctions, standard auctions such as the English, Dutch, and Vickrey auction are very efficient if you want to sell individual objects. However, they are not great at selling multiple related objects all at once.
+This complexity is exactly why this problem was so hard for auction theorists. As mentioned in my last [post on auctions](http://www.moneymacro.rocks/2020-10-28-auction-theory-1/), standard auctions such as the English, Dutch, and Vickrey auction are very efficient if you want to sell individual objects. However, they are not great at selling multiple related objects all at once.
 
 Say that all licenses are sold, roughly, at the same time and you want to buy the Nevada mobile phone license. You know that you can make 20 million if you are able buy it, on its own, 40 million if you also get the California license, 25 Million if you get the television licence for Nevada, and 50 million if you are able to secure them all. However, you are not bidding for the licenses as a package, you are bidding for them individually. So, you don’t know if you will win the others if you win one.
 
@@ -77,4 +77,4 @@ The answer is a resounding yes! The auction created a competitive market by assi
 You can see that it makes sense that Milgrom and Wilson just won the Nobel prise in economic sciences for their work.
 
 ### What is next?
-However, it might surprise you that the Nobel prise in economic sciences is often not considered a ‘real Nobel prise.’ To find out why stay tuned for the next and final post in this mini-series on the Nobel prise in economic sciences. Or, check out my previous [post](http://www.moneymacro.rocks/2020-10-28-auction-theory-1/) on the 1996 Nobel prise on auction theory or start a discussion in the comment section.
+However, it might surprise you that the Nobel prise in economic sciences is often not considered a ‘real Nobel prise.’ To find out why stay tuned for the next and final post in this mini-series on the Nobel prise in economic sciences. Or, check out my previous [post on the 1996 Nobel prise on auction theory](http://www.moneymacro.rocks/2020-10-28-auction-theory-1/) or start a discussion in the comment section.

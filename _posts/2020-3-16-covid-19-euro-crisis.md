@@ -8,7 +8,6 @@ In 2011, the Eurozone was almost broken up in a period of time that came to be k
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k5pdHVzImsA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Introduction
 To understand why the Eurozone is at risk, we need to go back to 2012. Back then, Corona was just a Mexican beer, Greece got a massive 130 billion Euro bail-out, and David Cameron (then UK prime minister) made a [speech](https://www.bbc.com/news/av/uk-18104553/eurozone-must-make-up-or-break-up-says-pm) stating "The Eurozone is at a cross-roads. It either has to make-up or it is looking at a potential break-up."
 
 The [Euro crisis](https://www.bbc.com/news/business-13856580) usually refers to the period between 2009 and 2012, when Eurozone countries such as Portugal, Ireland, Spain, Cyprus and Greece were unable to repay or refinance their government debt on their own. They needed the support of the dreaded ['troika'](https://www.esm.europa.eu/publications/safeguarding-euro/enter-troika-european-commission-imf-ecb) (consisting of the European commission finance ministers, European Central bank, and IMF) to do so.
@@ -44,6 +43,7 @@ But, the good news is that this could be temporary. It could be that after peopl
 Sadly, there are two major complications. The first is that not all expenses stop if people stay home. For many people and companies, the rent will still be due at the end of the first quarantine month. Similarly, for indebted companies and people, they still need to repay part of that loan every month, with interest. Now, this could be fine if people and companies have buffers. The second complication is that actually, many don’t. This means that many companies and individuals might go bankrupt. If they do, they will not be able to pay their debts. And if that happens, what do you think will happen to the banks? They will go broke. And remember, that was what started the original Eurozone crisis.
 
 ### Could covid19 trigger a Eurozone crisis?
+
 How will Eurozone governments will be affected by those companies, citizens and banks that did not have the necessary buffers to survive the supply and demand shocks that the virus produced?
 
 They will be affected in two ways. The first is that they will receive less taxes. Not only from these broke businesses, banks and citizens but also from all those taxpayers that were selling to them. The second effect is that the government will have to spend much more on unemployment and other benefits. So, its debt will rise massively.
@@ -79,13 +79,3 @@ For now, I remain hopeful that the Eurozone will be able to whether the economic
 Also, please consider sharing this blog using the buttons below or dropping a comment. I am keen to discuss with you further about how the Eurozone will be affected by Covid-19.
 
 *Written by Joeri Schasfoort*
-
-### Further reading
-If this topic has peaked your interest and you would like to know more about it. I've suggested some of my favourite books below:
-
-* Europe's Orphan: The Future of the Euro and the Politics of Debt by Martin Sandbu, *great alternative view on what really caused the Euro crisis*, [Amazon link](https://amzn.to/39XiSZa)
-* The Euro: How a Common Currency Threatens the Future of Europe by Joseph Stiglitz, *account of the euro crisis by one of the top economists of our time* , [Amazon link](https://amzn.to/2IPXfOG)
-* Adults in the Room: My Battle with the European and American Deep Establishment by Yanis Varoufakis, *political account by the Greek finance minister during the crisis* [Amazon link](https://amzn.to/2U9aMGb)
-* The European Economy since 1945: Coordinated Capitalism and Beyond by Barry Eichengreen, *in this book one of my favourite economists provides a good introduction to the European economy*, [Amazon link](https://amzn.to/33mSqG2)
-
-*Note that moneymacro.rocks is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means to earn fees when linking to Amazon.com and affiliated sites*

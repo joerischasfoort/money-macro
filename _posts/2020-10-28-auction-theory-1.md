@@ -69,7 +69,7 @@ Now, at this point, you might wonder, is there also a winner’s curse effect fo
 
 And because this reduced risk for buyers makes people more comfortable in bidding, these auctions typically yield more for the sellers of objects. That is why both Ebay and Google use second price auctions to sell objects and advertisements respectively.
 
-### Example
+### Example of a Vickrey auction
 
 Alright let’s apply that knowledge to our house price example. If you opted for the second price auction, the incoming bids will likely not have been *200.000, 190.000 and 180.000 dollars*. Because bidders didn’t have to worry about this winners curse, it is more likely that the bids were *210.000, 205.000 and 190.000*. Sure, the highest bidder would have payed the second highest price. But because that bid would have still been **5000 dollars more** than the highest bid in the first price auction, following Nobel prise winner William Vickrey’s advice could have made you an extra 5.000 dollars!!
 This insight has been a major contribution of auction theory. Precisely because it is somewhat counterintuitive. Most people expect that the first price auction is more profitable, but because buyers can learn about the winners curse, they can adapt their behaviour, making it a not the best choice. **That is economics at its finest!**
@@ -92,6 +92,4 @@ The most famous example are licenses for radio frequencies, which are very valua
 
 And, because the right combination of frequencies differed for each phone company, it was not possible to just auction of all of them at once. So, a Vickrey auction wouldn’t work here, it would have either meant selling all frequencies at once which was very inefficient, or it would have meant selling them all separately, fetching a very low price for the government and meaning that a profitable second-hand market would likely emerge.
 
-Thus, a different type of auction was needed. But what would that auction look like? This is the question the 2020 Nobel prise winning auction theorists [solved](https://www.nobelprize.org/uploads/2020/09/popular-economicsciencesprize2020.pdf) and this will be the subject of the next video in this three part mini-series on the 2020 Nobel prise in economic sciences.
-
-Make sure that you don’t miss when I post it!
+Thus, a different type of auction was needed. Next, I cover [what that auction would look like](http://www.moneymacro.rocks/2020-10-28-auction-theory-2/) and why it led to the [2020 Nobel prize](https://www.nobelprize.org/uploads/2020/09/popular-economicsciencesprize2020.pdf).

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The top 5 Strictest Coronavirus Lockdowns
+title: The top 5 Strictest Coronavirus Lockdowns (April 2020)
 ---
 
 The world is in lockdown and that is not just tough for our wellbeing but also for our wallets. All over the world, economies are taking massive hits. But, not all lock-downs are implemented equal . So, the economic hit won’t be either. This post covers the top five strictest, economy crushing, lockdowns.

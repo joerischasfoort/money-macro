@@ -52,3 +52,5 @@ The problem is that it is too easy. Hence, it might tempt governments to do this
 However, the UK central bankers have told us that this is just a temporary measure and they hope that investors believe them.
 
 But, do we believe them?
+
+If you want to know more about this subject, check out my posts on [how money is created by private banks](http://www.moneymacro.rocks/2020-03-28-banks-make-money/); [how central banks seek to control the money they create through the interest rate](http://www.moneymacro.rocks/2020-04-06-monetary-policy-1/), and whether [responsible money creation is possible.](http://www.moneymacro.rocks/2020-10-19-money-printing/).

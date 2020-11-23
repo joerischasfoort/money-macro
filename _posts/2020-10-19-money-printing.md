@@ -48,7 +48,7 @@ The money creation part takes place when that money is spent into the economy. A
 
 So, when new central bank liabilities are created. What asset will they help acquire? What most people think of first is government debt, and indeed that is often the case. But, here it gets even trickier because government debt happens to be a liability of the government, which [often owns](https://bankunderground.co.uk/2019/10/18/the-ownership-of-central-banks/) or, at least, controls the central bank.
 
-### Example
+### Money printing example
 
 To understand the full story, let’s take the government of Zimbabwe as an example. Recently, the IMF uncovered that the government was [secretly printing money](https://www.ft.com/content/4ae27da8-5967-11ea-abe5-8e03987b7b20) to subsidise gold mines.
 
@@ -123,7 +123,7 @@ And while that might have some positive effects for the holders of these assets.
 
 ### Then why money printing?
 
-Now, it is at this point that a lot of [amateur economists](https://schiffgold.com/videos/peter-schiff-government-tries-to-replace-the-economy-with-a-printing-press/) will start spouting stories that money printing will ALWAYS lead to hyperinflation or asset bubbles.
+Now, it is at this point that a lot of [amateur economists](https://schiffgold.com/videos/peter-schiff-government-tries-to-replace-the-economy-with-a-printing-press/) will start spouting stories that money printing will **ALWAYS** lead to hyperinflation or asset bubbles.
 
 In my opinion, that is way too simple. Money printing does not cause inflation if it is employed in the right way AND at the right time. Now, what do I mean by that? Remember, that in our previous examples, the key assumption was that money creation did not create additional supply, of either assets or goods, but it only increased demand.
 
@@ -147,7 +147,7 @@ This is often the case in a major recession in which consumer and investor confi
 
 Wouldn’t it be great if the government had a tool at its disposal to break this downward spiral? It turns out that they do. A bit of money printing might very well do the trick.
 
-### Conclusion
+### So, is responsible money printing possible?
 
 And with that, we can answer our question: is responsible money printing possible?
 
@@ -158,3 +158,5 @@ First, if used to invest in productive capacity, money printing can be used to g
 However, even though money printing should never be discarded in its entirety, it is quite tricky to get right and the consequences of not doing it can be pretty bad.
 
 Hence, it makes sense that there is a bit of a taboo on the subject. But with that being said, you all are responsible economists, and it would be silly to dismiss this powerful economic instrument in its entirety.
+
+That being said, in most modern economies the lion's share of [money is created by private banks](http://www.moneymacro.rocks/2020-03-28-banks-make-money/), which are incentivised by the [central bank through the interest rate](http://www.moneymacro.rocks/2020-04-06-monetary-policy-1/). 

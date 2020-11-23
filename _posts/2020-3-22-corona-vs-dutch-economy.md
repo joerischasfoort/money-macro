@@ -10,7 +10,6 @@ as robust as you might think and is at a high risk of a sustained slump.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JdtE0zP9P_Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Introduction
 These last few years, the Dutch Finance ministry has built a reputation of being extremely conservative when it comes to spending. So, conservative, that it cut government spending just after the recession of 2008, prolonging their [economic slump](https://www.reuters.com/article/us-dutch-economy/the-dutch-europes-apostles-of-austerity-feel-the-economic-pain-idUSBRE97F07F20130816). However, with the Covid-19 epidemic having reached Dutch shores, the Dutch have announced sweeping [government spending plans](https://think.ing.com/snaps/the-netherlands-second-economic-policy-response-to-corona-sizeable/) to cushion the blow. Is this economic crisis different than the last and can the Dutch economy withstand it? Or is it more vulnerable than we think?
 
 The economic crisis that will follow the coronavirus outbreak is really nothing like the previous large economic crisis. Our current crisis is the consequence of an external shock. This is economist speak for, an event that happened outside of the economic system. In this case, the external shock is the outbreak of the virus. On the other hand, the last economic crisis was a consequence of a massive debt and asset price bubble that popped, an internal shock.
@@ -86,12 +85,3 @@ So where does that leave us. Sadly, as economist, we cannot accurately predict t
 
 
 *Written by Joeri Schasfoort*
-
-### Further reading
-If this topic has peaked your interest and you would like to know more about it. I've suggested some of my favourite books below:
-
-* Austerity: the history of a dangerous idea by Mark Blyth, *great read on the dangers of austerity*, [Amazon link](https://amzn.to/33Hnm46)
-* Ordoliberalism, Law and the Rule of Economics by Josef Hien (Editor) and Christian Joerges (Editor), *this book on a German economic tradition will be helpful in understanding the thinking of Dutch politicians as well*, [Amazon link](https://amzn.to/2xXSvUV)
-
-
-*Note that moneymacro.rocks is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means to earn fees when linking to Amazon.com and affiliated sites*
