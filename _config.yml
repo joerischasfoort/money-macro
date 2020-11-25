@@ -170,7 +170,7 @@ kramdown:
 defaults:
   -
     scope:
-      path: ""
+      path: ""  # which files this should apply to e.g. posts
       type: "posts"
     values:
       layout: "post"
