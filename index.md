@@ -4,7 +4,7 @@ title: Money & Macro
 subtitle: Learn about monetary and macroeconomics.
 ---
 
-Welcome to the Money & Macro website, here you can subscribe to our YouTube channel, or browse the scripts of all of our YouTube videos.
+Welcome to our, here you can subscribe to our YouTube channel, or browse the [scripts](https://www.moneymacro.rocks/blog/) of all of our YouTube videos.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kWWTUONsgvA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
