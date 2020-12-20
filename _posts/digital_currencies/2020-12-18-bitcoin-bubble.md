@@ -7,7 +7,9 @@ As an economist, I think the Bitcoin price rollercoaster has been one of the mos
 
 *If you prefer to consume this story in video format, check it out here:*
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BNdfgF8AEPY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/BNdfgF8AEPY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 What might be surprising is that economists have not really found a reliable way to indicate whether we are in a bubble or not. The reason because no one knows the true price of an asset and the first economists who figures that out will stop being an economist and become a trader instead.
 

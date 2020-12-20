@@ -8,7 +8,9 @@ The outdated money theory is known as the money multiplier theory and it is clos
 
 *If you prefer to consume this story in video format, check it out here:*
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNSNX48Kmo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/cDNSNX48Kmo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ### The mythical money multiplier
 

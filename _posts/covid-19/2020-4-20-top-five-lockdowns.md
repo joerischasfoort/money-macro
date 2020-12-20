@@ -7,7 +7,9 @@ The world is in lockdown and that is not just tough for our wellbeing but also f
 
 *If you prefer to consume this story in video format, check it out here:*
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gxnko-W8NJs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/gxnko-W8NJs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 So, what are the top five strictest lockdowns? Let me first quickly go into how I put together this list. I did so with the help of the [stringency index](https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker) that has been compiled by the University of Oxford. To get to a top 5, I observed all days that these countries had a max stringency lockdown in effect, meaning that they score the full 100 points in the stringency index. What is a 100 point lockdown? It means that only essential businesses are allowed to remain open and people have to stay in their homes unless they are an essential worker or if they need to buy food or medicine. The implication is that there will be no morning jog, no visiting relatives, no leisurely stroll, no not even walking the dog.
 

@@ -7,9 +7,11 @@ Ever since I was born, there has really only been one question on my mind. How d
 
 That framework is called the Hierarchy of Money, and, in this post, I will share a visualisation of it with you.
 
-<!-- *If you prefer to consume this story in video format, check it out here:* -->
+*If you prefer to consume this story in video format, check it out here:*
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/eKEjDs8UB80" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/4xgHbW2A9KE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 The main point of the hierarchy of money is that some forms of money are better than others. There is thus, a hierarchy.
 
@@ -89,7 +91,7 @@ So, that was the hierarchy of money visualised, the framework that I use that ma
 
 I hope it will do the same for you.
 
-If you have not done so already, I invite you to check out some of my previous posts on [money printing](https://www.moneymacro.rocks/2020-10-19-money-printing/), [private bank money](https://www.moneymacro.rocks/2020-03-28-banks-make-money/), and [monetary policy](https://www.moneymacro.rocks/2020-04-06-monetary-policy-1/) and try to place them using the hierarchy of money. 
+If you have not done so already, I invite you to check out some of my previous posts on [money printing](https://www.moneymacro.rocks/2020-10-19-money-printing/), [private bank money](https://www.moneymacro.rocks/2020-03-28-banks-make-money/), and [monetary policy](https://www.moneymacro.rocks/2020-04-06-monetary-policy-1/) and try to place them using the hierarchy of money.
 
 From now on, I will use this visualisation in future posts and videos about the role of gold in the monetary system, the difference between quantitative easing and money printing and many more.
 

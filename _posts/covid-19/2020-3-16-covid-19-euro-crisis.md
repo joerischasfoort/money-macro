@@ -6,7 +6,9 @@ In 2011, the Eurozone was almost broken up in a period of time that came to be k
 
 *If you prefer to consume this story in video format, check it out here:*
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k5pdHVzImsA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/k5pdHVzImsA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 To understand why the Eurozone is at risk, we need to go back to 2012. Back then, Corona was just a Mexican beer, Greece got a massive 130 billion Euro bail-out, and David Cameron (then UK prime minister) made a [speech](https://www.bbc.com/news/av/uk-18104553/eurozone-must-make-up-or-break-up-says-pm) stating "The Eurozone is at a cross-roads. It either has to make-up or it is looking at a potential break-up."
 

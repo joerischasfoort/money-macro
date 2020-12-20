@@ -9,7 +9,9 @@ This post explores if it is possible to do money printing responsibly. In other 
 
 *If you prefer to consume this story in video format, check it out here:*
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eKEjDs8UB80" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/eKEjDs8UB80" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Before discussing situations in which money printing can be done responsibly, let’s first establish what money printing is.
 
@@ -159,4 +161,4 @@ However, even though money printing should never be discarded in its entirety, i
 
 Hence, it makes sense that there is a bit of a taboo on the subject. But with that being said, you all are responsible economists, and it would be silly to dismiss this powerful economic instrument in its entirety.
 
-That being said, in most modern economies the lion's share of [money is created by private banks](http://www.moneymacro.rocks/2020-03-28-banks-make-money/), which are incentivised by the [central bank through the interest rate](http://www.moneymacro.rocks/2020-04-06-monetary-policy-1/). 
+That being said, in most modern economies the lion's share of [money is created by private banks](http://www.moneymacro.rocks/2020-03-28-banks-make-money/), which are incentivised by the [central bank through the interest rate](http://www.moneymacro.rocks/2020-04-06-monetary-policy-1/).
