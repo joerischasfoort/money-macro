@@ -11,7 +11,9 @@ In this first blog post, I discuss what auction theory is and why William Vickre
 
 *If you prefer to consume this story in video format, check it out here:*
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eX0CtCQjSLE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/eX0CtCQjSLE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ### Definition of an auction
 
