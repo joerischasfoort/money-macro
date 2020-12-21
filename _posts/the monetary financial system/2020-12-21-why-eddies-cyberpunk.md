@@ -15,7 +15,7 @@ But, what are Eddies? How did they defeat the once mighty U.S. dollar, and why w
   <iframe src="https://www.youtube.com/embed/DIJ6fftuAVI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-### What are eddies?
+### What are Eddies?
 
 The official currency in Night city is the Eurodollar. Eurodollars are issued by the [European Bank](https://cyberpunk.fandom.com/wiki/EuroBank), which is a public institution that serves the [European Economic Community](https://cyberpunk.fandom.com/wiki/European_Economic_Community), EEC for short.
 
