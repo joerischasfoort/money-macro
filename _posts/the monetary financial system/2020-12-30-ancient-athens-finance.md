@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The monetary economics of Cyberpunk 2077
+title: The monetary economics of Ancient Athens
 ---
 
 The treasury of Ancient Athens, located in the famous [Parthenon building](https://en.wikipedia.org/wiki/Parthenon), was basically, much like the [Federal Reserve](https://www.federalreserve.gov/aboutthefed.htm) building is today, the epicentre of the international monetary system. And the Silver Drachmae was really the dollar of the Mediterranean. Furthermore, the famous port of Piraeus, where sailors from all over the Mediterranean went to trade, but also to visit their bankers. So basically, to stick with the present day analogy, this was the first incarnation of Wall Street.
