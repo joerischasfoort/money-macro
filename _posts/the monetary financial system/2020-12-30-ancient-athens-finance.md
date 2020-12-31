@@ -26,7 +26,7 @@ Before Athens, big cities in Mesopotamia had monetary systems with a dual core o
 
 ### Money in ancient Athens
 
-But for Athens there were two major problems that prevented them from adopting the Mesopotamian monetary system.
+But, for Athens there were two major problems that prevented them from adopting the Mesopotamian monetary system.
 
 The first concerns its monetary core. Since grain had to be imported, it was so scarce that it couldn’t be used as the supreme form of money as it partially was in Mesopotamia. Silver on the other hand, there was plenty since our lucky Athenians had found massive silver deposits just south of the City in the form of the famous Laurian Silver mines.
 So, yeah, it was basically not a surprise to anyone that they ended up building their monetary system on a silver core rather than a joint grain / silver core.
