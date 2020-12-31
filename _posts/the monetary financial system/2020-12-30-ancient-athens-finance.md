@@ -21,6 +21,9 @@ Ancient Athens was one of the largest cities of its time. However, the Athenians
 
 Before Athens, big cities in Mesopotamia had monetary systems with a dual core of silver and grain as highest forms of money. However, both had their problems in trade. Grain can better be used to make bread, and silver needs to be weighted and was pretty scarce. Therefore, the monetary systems in these cities evolved such that an outer layer of accounts on clay tablets came to enclose the inner monetary layer of grain and silver. Clay tablets were used to record debts that were denominated in silver and grain. And if you wanted to convert the clay tablet to grain or silver, the state had systems on place that made sure this could be done on request. Since these tablets could easily be identified, created and traded, within Mesopotamian cities, these tablets made excellent money.   
 
+![clay-silver-grain](../img/clay-silver-grain.png)
+*The monetary system of Ancient Mesopotamia can be visualised as having a joint silver-grain core and a monetary periphery of clay tablets*
+
 ### Money in ancient Athens
 
 But for Athens there were two major problems that prevented them from adopting the Mesopotamian monetary system.
@@ -32,7 +35,10 @@ However, then there was still another problem. Because most grain needed to be i
 
 So, the Athenians adapted their monetary core even more. One of the major innovations the Athenians did compared to their ancient forerunners, is that they took that silver from their mines, and minted them into silver coins. This was a major innovation since when pure silver was used, traders had to weight silver to make sure they got payed in full. Wat coinage really is, is a stamp by the state that helps citizens recognise how much silver is in the coins.
 
-Here you see the famous Athenian Owl coin, or the silver Drachmea. This was basically the dollar of the Ancient Mediterranean. Athenian owl coins were found as far as Babylon, Arabia, Southern Italy, Turkey, and Egypt. Some cities even minted these same coins with their own city stamp on it In fact, the Athenian owl came to symbolise money itself. Kind-off like how the dollar sign is often used to refer to money and not to the dollar specifically.
+In the picture below you see the famous Athenian Owl coin, or the silver Drachmea. This was basically the dollar of the Ancient Mediterranean. Athenian owl coins were found as far as Babylon, Arabia, Southern Italy, Turkey, and Egypt. Some cities even minted these same coins with their own city stamp on it In fact, the Athenian owl came to symbolise money itself. Kind-off like how the dollar sign is often used to refer to money and not to the dollar specifically.
+
+![owl-coin](../img/owl-coin.png)
+*The ancient Athenian Drachmae with Athena on one side and the owl on the other*
 
 The Athenians stored all their silver coins, along with other riches in the famous Parthenon on top of mount Acropolis. Having a lot of silver in a vault is one thing. But, the question that then is remains is how do you get that money to circulate in the economy? One of the biggest problems in monetary economics is about how to get money to circulate. It should get ‘stuck in the system, either because some spoilt rich kid is hoarding it all or some government bureaucrat has a fetish for austerity policies…..  
 Here also, the Athenians came up with two ingenious innovations to both pump Drachmae into the economy and extract Drachmaes from it. One way coins were pumped into the economy was through state jobs. The unique thing about these state jobs is that they were never permanent. State jobs were jobs like inspecting imported goods in the harbour and being on the jury in court. The jobs were always temporary and citizens circulated through them. The handy dandy thing about this is that it ensured a very equal flow of money into society. Then, for money extraction, the government of Athens was one of the first to establish a tax system.
@@ -51,6 +57,9 @@ There is a big role for debt based money in the monetary system because it can b
 
 Here their weapon of choice was not the clay tablet. Rather, it was…. a table…. But… okay, fine, it was not just a regular table. In all likelihood they were modelled after the Salamis tablet, which is very similar in function to an Abacus, which while a powerful financial tool in the past, has now been relegated to being a children’s toy! Auch. The Greek special bankers table was known as the Trapeza, and it’s no coincidence that the [Greek word for bank is still Trapeza](https://en.wiktionary.org/wiki/%CF%84%CF%81%CE%AC%CF%80%CE%B5%CE%B6%CE%B1) today.
 
+![bankers-table](../img/bankers-table.png)
+*Bankers at a table with a picture of the Salamis table that is similar to how these tables were likely used as a modern day calculator*
+
 There is evidence that bankers accepted deposits, of which some was held in reserve but also a lot was lend out. Some, therefore, consider it the start of modern banking. There is some evidence that the interest rates on loans was roughly 12% for safe loans and 22% to 30% for ship loans, this indicates that the banking system was probably pretty efficient, since loans sharks charge way more than that.
 
 But, it was not only bankers that made ship loans. These were also made by wealthy individuals and groups, although the corporation as we know it had not yet been invented, the Athenians did often bundle their resources to finance complex commercial endeavours.  
@@ -66,6 +75,9 @@ Well, I can tell you …. Financial fraud is not a modern invention. There was p
 
 Hence, just like in modern day New York and London, the legal system in Ancient Athens developed into a force to be reckoned with. Although this worked a bit differently in Athens, namely if there was a dispute between two parties, they would have to plead to a group of jurors who would decide who was in the right. Let’s say a captain that came back was claiming his ship was stolen while his former banker was claiming the captain was a fraud. Both of them would have to make their case for a large group of jurors, consisting of Athenian citizens. The jurors would then decide who had to pay to up.  
 
+![in-court](../img/in-court.png)
+*Captain and his banker argue in court, trying to convince the jurors*
+
 What’s interesting here is that because Financial contracts were drafted in Athens, even if two parties came from different states, Athenian law would still apply to the contract. This is really similar to how New York judges sometimes are able to do crazy things like order the seizure of ships belonging to a foreign state. To cover debt payments for financial instruments that were issued in New York. If you don’t believe, ask Argentina….
 
 ### What makes Athenian money and finance so interesting?
@@ -79,6 +91,10 @@ Basically, you could say that Ancient Athens had the first international monetar
 ### Summary
 
 Here’s a quick recap of that Athenian monetary system. It was built on silver coins which were minted by the state. Silver was mined by private miners that bought mining rights from the state. There was then a large layer of bank created money and financial instruments that rested on top of the silver coin core, much like how it is today.
+
+![athens-mon-system](../img/athens-mon-system.png)
+*Overview of the monetary system of Ancient Athens, built on a silver coin core and with a large outer layer of bank / financial money*
+
 Making the monetary system of Ancient Athens, a really nice template for all future monetary systems which I will be exploring in future posts and videos.
 
 *My main source for this blog was Ch4 from the Amazing book [Money Changes Everything](https://www.jstor.org/stable/j.ctvc77dzg), specifically chapters 5 and 6*
