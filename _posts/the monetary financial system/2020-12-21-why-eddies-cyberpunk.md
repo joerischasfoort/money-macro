@@ -35,7 +35,7 @@ When financial markets found out about the manipulation, this led to a major fin
 
 ### Why does night city use Eddies?
 
-With the Eddie dominating the international monetary order, it now makes a lot more sense that an internationally focussed city of commerce, like night city, would adopt it as their own. Their situation is actually very similar to that of Hong Kong. While the official currency of Hong Kong is the Hong Kong dollar, it’s [pegged to the U.S. dollar](https://www.reuters.com/article/hongkong-markets-peg/hong-kongs-fx-intervention-highest-since-2009-idUSKBN26Z06X), not the Chinese renminbi.
+With the Eddie dominating the international monetary order, it now makes a lot more sense that an internationally focused city of commerce, like night city, would adopt it as their own. Their situation is actually very similar to that of Hong Kong. While the official currency of Hong Kong is the Hong Kong dollar, it’s [pegged to the U.S. dollar](https://www.reuters.com/article/hongkong-markets-peg/hong-kongs-fx-intervention-highest-since-2009-idUSKBN26Z06X), not the Chinese renminbi.
 
 What night city did was just take it one step further and that is adopting a foreign currency as its own. After all, not having to transfer money into local currency at all is very convenient for the mega corporations dominating Night city. For comparison, fully adopting a foreign currency puts Night City in the same monetary category as Panama and Liberia. Two countries that are [fully dollarized in our world](https://www.piie.com/commentary/testimonies/dollarization-emerging-market-economies-and-its-policy-implications-united).
 
