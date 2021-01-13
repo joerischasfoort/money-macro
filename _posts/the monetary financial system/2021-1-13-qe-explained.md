@@ -19,38 +19,37 @@ No wonder so many analysists / hacks are predicting the [demise of the dollar](h
 
 Okay, to be able to pinpoint exactly how quantitative easing and money printing are different, we’ll need to discuss, exactly, what Quantitative Easing is.
 
-QE basically refers to a policy where the central bank starts buying financial assets on a large scale from the private sector. These assets are typically government bonds, and sometimes bonds from big corporations that are very unlikely to go out of business.
+QE basically refers to a policy where the central bank starts buying financial assets on a large scale from the private sector. These assets are typically [government bonds](https://www.wsj.com/articles/european-central-bank-smothers-government-bond-market-11599830877#:~:text=It%20announced%20a%20%E2%82%AC750,%E2%82%AC1.35%20trillion%20in%20June.&text=4%2C%20the%20ECB%20has%20spent,latest%20figures%20it%20has%20published.), and sometimes bonds from [big corporations that are very unlikely to go out of business](https://www.bloomberg.com/opinion/articles/2020-06-17/what-the-u-s-fed-can-learn-from-the-ecb-on-corporate-bonds).
 
 But, in this balance sheet example, you can see that, what differentiates QE from a normal transaction is that large scale asset purchases by the central bank are financed by newly created money.
+
+![bankers-table](../img/QE.png)
+*Balance sheet example: the central bank has expanded its balance sheet to buy bonds from the private sector with newly created reserves*
 
 In this case central bank reserves, where reserves are basically digital accounts that private banks have at the central bank and can use to pay each other.
 
 ### The first difference between QE and money printing
 
-Here, we stumble across the first crucial difference between QE and money printing. With QE, central bank reserves are created. But, with traditional money printing notes and coins are created.
+Here, we stumble across the first crucial difference between QE and money printing. With QE, central bank **reserves are created**. But, with traditional money printing **notes and coins are created**.
 
 This is important because notes and coins end up in the hands of the consumer. Whereas reserves end up in the hands of financial institutions.
 
 And this is again important because where money ends up first, is likely where you will see the biggest impact on prices.
 
-This explains why we have seen massively increased asset prices in countries where there has been QE, but not so much inflation.
-But, this is not the whole story of QE. While the central bank creates reserves. It also takes something out of the economy, namely bonds.
+This explains why we have seen [massively increased asset prices in countries where there has been QE](https://www.ecb.europa.eu/press/key/date/2020/html/ecb.sp200127~f80408b6da.en.html), but [not so much inflation](https://www.stlouisfed.org/publications/regional-economist/july-2014/three-faces-of-low-inflation-us-japan-and-the-euro-area).
 
-This is important because bonds are actually used as money in large parts of the financial sector.
+But, this is not the whole story of QE. While the central bank creates reserves. It also takes something out of the economy, namely bonds. This is important because bonds are actually used as money in [large parts of the financial sector](https://www.brookings.edu/blog/up-front/2020/01/28/what-is-the-repo-market-and-why-does-it-matter/#:~:text=The%20repo%20market%20allows%20financial,securities%2C%20often%20U.S.%20Treasury%20securities%2C).
 
 ### The second difference between QE and money printing
 
-And this brings us to the second key difference. With money printing, the government spends more money into the economy. But, with QE this doesn’t have to be the case.
-
-If the government doesn’t simultaneously increase its spending, the central bank merely inserts one money like instrument while taking out another.
-
-To make this point more clearly, check out my visualisation of the monetary system, which I covered in depth in another video.
+And this brings us to the second key difference. With money printing, the government **spends more money into the economy**. But, with QE this doesn’t have to be the case. If the government doesn’t simultaneously increase its spending, the central bank merely inserts one money like instrument while taking out another.
 
 If you visualise the monetary system, it consists of a monetary core of central bank money. First, notes and coins, and on top of that bank reserves. Then, there is a layer of money created by private banks. And then, finally, there is a layer that consists of financial instruments often used as money, but only used in some parts of the economy. I call this layer the financial crust.
 
-So, when QE happens, reserves are added to the economy while, at the same time bonds in the financial crusts are taken out of the economy.
+![bankers-table](../img/financial_system.png)
+*Hierarchy of money layers*
 
-But, as you can see, the effective money supply remains the same.
+So, when QE happens, reserves are added to the economy while, at the same time bonds in the financial crusts are taken out of the economy. But, *the effective money supply remains the same*.
 
 ### Why QE?
 
