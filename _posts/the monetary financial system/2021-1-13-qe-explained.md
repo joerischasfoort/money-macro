@@ -9,11 +9,11 @@ Money printing, the most taboo subject in economics. But, if we are to believe m
 
 No wonder so many analysists / hacks are predicting the [demise of the dollar](https://www.rt.com/business/512072-us-dollar-demise-bitcoin/), the [return of hyperinflation](https://www.federatedinvestors.com/insights/article/-hyperinflation-is-coming-i-guarantee-it.do), and basically the [end of the world](https://www.youtube.com/c/EpicEconomist/videos). Even though, central banks have been doing this for years now and we really [haven’t seen a lot of inflation](https://www.stlouisfed.org/publications/regional-economist/first-quarter-2018/why-inflation-so-low).
 
-<!-- *If you prefer to consume this story in video format, check it out here:*
+*If you prefer to consume this story in video format, check it out here:*
 
 <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/DIJ6fftuAVI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div> -->
+  <iframe src="https://www.youtube.com/embed/ZbqtpKk6iC8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ### What is quantitative easing?
 
