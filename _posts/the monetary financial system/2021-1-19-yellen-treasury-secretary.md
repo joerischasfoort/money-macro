@@ -58,4 +58,8 @@ This tells us that she is probably going to be tough on Wall Street and big busi
 ### Summary
 
 So, that was the story of Janet Yellen. She definitely has the qualifications for the job and I expect that she will be a dovish Treasurer. So, I’m expecting plenty of stimulus.
-Is that indeed what we need right now, both in and outside the U.S. Let me know in the comments.
+Is that indeed what we need right now, both in and outside the U.S. Let me know in the comments or if you found this post interesting consider subscribing to our YouTube channel using the button below:
+
+<script src="https://apis.google.com/js/platform.js"></script>
+
+<div class="g-ytsubscribe" data-channelid="UCCKpicnIwBP3VPxBAZWDeNA" data-layout="full" data-count="default"></div>
