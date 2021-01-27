@@ -8,7 +8,7 @@ description: We are devoted to better understanding monetary and macroeconomics 
 
 # List of links in the navigation bar
 navbar-links:
-  Scripts: "blog"
+  Blog: "blog"
   About:
     - The channel: ""
     - Dr. Joeri Schasfoort: "https://joerischasfoort.github.io/"
