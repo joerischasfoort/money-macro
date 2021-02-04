@@ -14,11 +14,11 @@ Now the reason that economists found this phenomenon puzzling is that they have 
 Why would people come to believe that house prices can only go up? And why would banks, which employ some of the smartest people, be stupid enough to fund a housing bubble?
 That’s what we will explore in this post.
 
-<!-- *If you prefer to consume this story in video format, check it out here:*
+*If you prefer to consume this story in video format, check it out here:*
 
 <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/7DkczQKrPiA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div> -->
+  <iframe src="https://www.youtube.com/embed/90qZccMiW5s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 So what is the financial cycle? Well, here I will refer to two [quotes of the European Central Bank](https://www.ecb.europa.eu/pub/pdf/other/eb201701_focus02.en.pdf):
 
