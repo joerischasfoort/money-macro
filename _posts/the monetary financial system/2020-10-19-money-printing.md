@@ -79,7 +79,8 @@ In **step 4**, the government used these notes and coins to pay the owners of th
 But hold on, what has really changed? Doesn’t the government of Zimbabwe effectively own its central bank? Indeed, it does. So, in theory not much changes. Now the mine owners hold a claim on the central bank instead of the government. In the end the balance sheets look like this:
 
 ![final](../img/final_balance.png)
-*where the red items have been replaced by the green items*
+
+*In the above picture the red items have been replaced by the green items*
 
 But, the central bank is effectively part of the government, so nothing has really changed through money printing.
 
