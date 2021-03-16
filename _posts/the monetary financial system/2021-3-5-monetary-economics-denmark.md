@@ -39,6 +39,8 @@ However, this means that the central bank does not have these tools available to
 Even though the central bank doesn’t target inflation, it has been remarkably stable in Denmark and also very similar to that of neighbouring countries.
 For example, check out this graph of inflation in Denmark, Sweden, and Germany… Inflation has been trending downwards everywhere…
 
+![inflation](../img/dk-inflation.png)
+
 This has been quite a puzzle for central banks since their favourite theory of inflation implies that a growing economy with low unemployment should produce lots of inflation. Weirdly enough though, GDP has been growing, Denmark is one of the richest countries in world, and unemployment is at a record low. And yet, inflation has remained stubbornly low.
 
 How is this possible?
@@ -53,6 +55,8 @@ Don’t you love these beautiful Danish houses?
 
 Well, you are [not the only one](https://www.thelocal.dk/20190318/danish-house-prices-reach-highest-ever-level-beating-11-year-record/), house prices have been [notoriously bubbly](https://www.nationalbanken.dk/en/publications/Documents/2011/05/MON1Q_P1_2011_The%20Housing%20Bubble%20that%20Burst.pdf) in Denmark. As you can see in this chart of property prices in Denmark, they were pushed up to ski-high levels and after a little crisis dip, they are almost back to their previous highs.  
 
+![inflation](../img/dk-property.png)
+
 Not surprisingly, Danish household debt is one of the highest in the world at around a whopping 257% of total Household disposable income. For comparison, household debt is 188% in Sweden and only 96% in big neighbour Germany (source: OECD data).
 
 As you might imagine, this is a major headache for the Danish central bank.
@@ -61,7 +65,7 @@ But, it is not just the central banks fault for keeping interest rates at rock b
 
 That being said, when looking at debt numbers like this. We do have to take into account that interest rates are indeed at an all-time low. This means that higher debt levels could be sustainable. Indeed, as you can see here,
 
-![bankers-table](../img/dk-debt-service.png)
+![debt-service](../img/dk-debt-service.png)
 
 even though debt has increased, debt service costs have gone down considerably in Denmark along with falling interest rates. That means that what looks like a bubble, might actually be sustainable… as long as interest rates stay ultra low.
 
