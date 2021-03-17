@@ -13,7 +13,7 @@ Following in the footsteps of [Zimbabwe](https://www.fin24.com/Economy/Africa/it
 
 Before getting into the specifics, let’s start by discussing what monetary financing is. In short, it means that the central bank directly finances government spending by creating money.
 
-To understand how this works it is easiest to use simple balance sheets.
+To understand how this works it is easiest to use simple balance sheets such as these:
 
 ![png1](../img/balance_sheets1.png)
 
@@ -43,7 +43,7 @@ This is different for Monetary Financing. Since the central bank is part of the 
 
 This will not necessarily lead to hyperinflation. As you saw in the balance sheet example, the total quantity of money in the hands of the public will theoretically be the same. The amount of reserves and bonds in the financial system are different though.
 
-Even before the Coronacrisis, there was already a trend to more reserves and less bonds in the financial system as the central bank was buying bonds with new reserves. This is known as quantitative easing, and a video on that will follow later.
+Even before the Corona crisis, there was already a trend to more reserves and less bonds in the financial system as the central bank was buying bonds with new reserves. This is known as quantitative easing, and a video on that will follow later.
 
 ### Why don't governments use monetary finance all the time?
 
