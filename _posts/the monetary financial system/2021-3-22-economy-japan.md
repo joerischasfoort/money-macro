@@ -16,7 +16,6 @@ I mean, by now it’s gotten so bad that the Bank of Japan, in a desperate attem
   <iframe src="https://www.youtube.com/embed/pU_yyadYgG8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ## The bubble to end all bubbles: 1979 – 1990
 
 Alright, this story starts on a high note. The eighties, when Japan was still a growing economic superpower.
