@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The economy of Japan: from superpower to stagnation
+title: The economy of Japan - from superpower to stagnation
 ---
 
 The economy of Japan while its economic might is still widely respected…. These days, the western world largely fears the rise of another Asian giant…
