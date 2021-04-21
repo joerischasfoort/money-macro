@@ -100,7 +100,7 @@ Well, the first step is to ‘stop the bleeding.’ In other words, to stabilize
 
 And then, when the economy is stabilized, Lebanon can work to further tackle its two underlying problems: its massive trade and government deficits.
 
-A good step to tackle the first problem is to let the currency rate be determined by the market. As it is now, there are three exchange rates. The first is the central bank official rate which still means that you need 1507 pounds to get one dollar… This is how the central bank supports importers of critical goods. Then there is the Ministry of Economy & Trade exchange rate, which is lower, you need 3,900 pounds to get one dollar. This also used to support critical imports. And then finally, there is the black market rate which is… fluctuating wildly but at the time of this video closer to needing 10,000 pounds to get that same 1 single dollar bill.
+A good step to tackle the first problem is to let the currency rate be determined by the market. As it is now, there are three exchange rates. The first is the central bank official rate which still means that you need 1507 pounds to get one dollar… This is how the central bank supports importers of critical goods. Then there is the Ministry of Economy & Trade exchange rate, which is lower, you need 3,900 pounds to get one dollar. This also used to support critical imports. And then finally, there is the black market rate which is… fluctuating wildly but at the time of writing closer to needing 10,000 pounds to get that same 1 single dollar bill.
 
 Now, while it does make sense to support critical imports, there are two major problems with having multiple exchange rates and that is that (1) its confusing, and (2) its bureaucratic, arbitrary, and in a country with sky-high corruption this means that it mainly benefits the rich well connected elite.
 
@@ -114,7 +114,7 @@ Nah, in all seriousness, I really do believe it is important to clarify what Leb
 But, economics does not operate in a vacuum, and I believe that economists have to recognize political realities.
 And this is where this story takes a darker turn.
 
-You see, a lot of the solutions I discussed in this video were actually part of the government proposal last year….
+You see, a lot of the solutions I discussed in this blog were actually part of the government proposal last year….
 However that plan, was rejected by Lebanon’s political elite…
 
 You see, there is a deeper underlying structural reason why the Lebanese Pound has fallen so far, and why its government is so dysfunctional and that is sectarian politics.
@@ -144,7 +144,7 @@ So, how to fix the pound has become how to fix Lebanese politics and that would 
 
 So yeah, that was my take on this tragic crisis. Do you agree? Have I missed something? I probably did, so let me know in the comments, I’ll be happy to continue the discussion there with you.
 
-And, if you were intrigued by this video have a look at my channel’s pages, where you will find similar videos on other countries as well as explanations of some of the basic economic concepts that underpin this video such as exchange rates and the balance of payments.
+And, if you were intrigued by this blog have a look at my [other blogs](https://www.moneymacro.rocks/blog/) or [YouTube channel](https://www.youtube.com/moneymacro), where you will find similar blogs and videos on other countries as well as explanations of some of the basic economic concepts that underpin this video such as [exchange rates](https://www.moneymacro.rocks/2021-02-12-exchange-rates-explained/) and the [balance of payments](https://www.moneymacro.rocks/2021-02-18-balance-of-payments/).
 
 ### Other sources
 Here are some of the sources I used which I couldn't directly attribute to a certain part of the blog:
