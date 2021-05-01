@@ -7,14 +7,15 @@ Inequality is one of the most important topics in economics today.
 
 So, I have to say that I, as a Dutch economist who works for a South African University, I was absolutely shocked when I saw this video from Economics Explained (also known as EE) which had the following to say about the Netherlands.
 
-“This post-card perfect little nation is according to the World Bank the most unequal place on earth.”
+> This post-card perfect little nation is according to the World Bank the most unequal place on earth.
 
 What!!! So, it’s not South Africa, which EE acknowledges
 
-“Normally gets this less than desirable title “
+> Normally gets this less than desirable title
 
 But, that is only the case when it comes to income inequality. No, when it comes to wealth inequality the Netherlands is the worst… and this is in spite of the fact that the Netherlands has a lot of progressive social welfare policies and high taxes in place to reduce wealth inequality… But…. As EE then tells us.
-“if we look at the results in doesn’t look like they will do that at all”
+
+> if we look at the results in doesn’t look like they will do that at all
 
 Wow!!! I mean, I get it, this is exactly the type of story that economists love because it is so counterintuitive…
 
@@ -22,7 +23,7 @@ After all, the richest neighbourhoods in my last city of residence, beautiful Ca
 
 But, EE finds… using data, supposedly from the World Bank, that actually the Netherlands is the most unequal country in the world, not South Africa… So, I definitely understand why this video was a massive hit on YouTube… But, why then haven’t any other sources picked up this incredible story!? Wellll…
 
-Because it is not True.
+**Because it is not True.**
 
 *By the way if you prefer to consume this story in video format, check it out here:*
 
