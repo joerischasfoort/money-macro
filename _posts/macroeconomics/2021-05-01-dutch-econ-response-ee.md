@@ -31,125 +31,125 @@ But, EE finds… using data, supposedly from the World Bank, that actually the N
   <iframe src="https://www.youtube.com/embed/tW_kw6OPXc0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-So, before I start telling you exactly why the ‘World Bank’ numbers are incorrect, let me just say that this is a ‘good faith’ response, meaning that throughout it I’ll assume that EE has made some honest mistakes that led him to completely and utterly wrong conclusions.
+So, before I start telling you exactly why the *‘World Bank’* numbers are incorrect, let me just say that this is a *good faith response*, meaning that throughout it I’ll assume that EE has made some honest mistakes that led him to completely and utterly wrong conclusions.
 
-But, yeah with out of the way let me just quickly change into my orange Netherlands themed T-shirt and tell you exactly why Economics Explained should make a new video that is titled:
-How the Dutch Economy precisely shows that we can reduce wealth inequality with taxes.
+## The problems with Wealth Inequality
 
-So, while EE didn’t provide links to all his sources, I did find the report that he cites… but it’s not a World Bank ranking in conjuncture with big Swiss Bank Credit Suisse… Rather, he uses wealth inequality numbers from a Credit Suisse research report ([pdf file here](https://www.credit-suisse.com/media/assets/corporate/docs/about-us/research/publications/global-wealth-report-2019-en.pdf))… And as far as I could see the World Bank has nothing to do with it… Now, another little alarm bell went off when I saw that actually the numbers EE uses were in the report … But, they were tucked away on page 117 of the supplementary materials ([pdf file here](https://www.credit-suisse.com/media/assets/corporate/docs/about-us/research/publications/global-wealth-databook-2019.pdf)) of the study and there they weren’t ranked at all. So, where did EE find this ranking?….. Well, I think that he got that from this [Wikipedia page](https://en.wikipedia.org/wiki/List_of_countries_by_income_equality) that I found, which indeed ranks the Credit Suisse inequality numbers and also provides GDP numbers from the World Bank in the same ranking…
+So, while EE didn’t provide links to all his sources, I did find the report that he cites… but it’s not a World Bank ranking in conjuncture with big Swiss Bank Credit Suisse… Rather, he uses wealth inequality numbers from a Credit Suisse research report ([download the pdf file here](https://www.credit-suisse.com/media/assets/corporate/docs/about-us/research/publications/global-wealth-report-2019-en.pdf))… And as far as I could see the World Bank has nothing to do with it… Now, another little alarm bell went off when I saw that actually the numbers EE uses were in the report … But, they were tucked away on page 117 of the supplementary materials ([download the pdf file here](https://www.credit-suisse.com/media/assets/corporate/docs/about-us/research/publications/global-wealth-databook-2019.pdf)) of the study and there they weren’t ranked at all. So, where did EE find this ranking?….. Well, I think that he got that from this [Wikipedia page](https://en.wikipedia.org/wiki/List_of_countries_by_income_equality) that I found, which indeed ranks the Credit Suisse inequality numbers and also provides GDP numbers from the World Bank in the same ranking…
+
 So, perhaps that is where the confusion about the World Bank came from?
+
 But, okay whatever … Even if the Netherlands is not the most unequal country according to the World Bank… It still is according to Credit Suisse, which is still a pretty credible source. In fact, I inspected the study and it’s well thought out and the authors are, as far as I could tell well respected academics.
+
 So, the source is actually fine. But, it did get me thinking….
+
 Wow, these authors are really bad at selling their research … tucking away such a ground breaking result in the supplementary materials……
+
 Why aren’t these wealth inequality numbers getting the same attention as income inequality numbers?
+
 EE also notices this and has the following to say about it:
-“Income inequality tends to get a lot of the attention. People riling over how CEO's earns over three hundred times more than their average worker or whatever….
-But, is that really why economists focus on income inequality rather than wealth inequality? I mean people also make a fuss about CEOs owning massive yachts or private jets while their workers live in shacks… which is wealth inequality…
-So no, the reason why we hear economists much more frequently about income inequality is actually that
-the data on wealth is really really bad!!!
+
+> Income inequality tends to get a lot of the attention. People riling over how CEO's earns over three hundred times more than their average worker or whatever….
+
+But, is that really why economists focus on income inequality rather than wealth inequality? I mean people also make a fuss about CEOs owning massive yachts or private jets while their workers live in shacks… which is wealth inequality… So no, the reason why we hear economists much more frequently about income inequality is actually that the data on wealth is really really bad!!!
+
 You see, wealth inequality is much more difficult to measure than income inequality for two main reasons.
-The first reason is that, in contrast to your income, a lot of your wealth is not recorded. These old watches, that old painting you got from your grandparents, your 10 year old car, your 5 year old bed, your 6 year old Yacht & don’t forget about the old family farm.
-What is the value of all of that? Sure, you could make a reasonable estimate. But that is really a lot of work.
-What you earned last year though… now that is much easier to estimate. And it is for that very practical reason that most countries tax your income rather than your wealth. And thanks to these income tax records, economists know quite a bit about income inequality in most countries.
 
-On the other hand, there are only a few countries, like the Netherlands, which have fairly good data on wealth inequality. And indeed, the Credit Suisse report recognizes this and states that while data quality for the Netherlands is good. Data quality of highly unequal Brazil, for example, is … Poor… and the data quality of highly highly unequal Nigeria is very poor….
-Also, the report states that none of the countries, not even the Netherlands, have provided data that is ‘very good…’
-Now in all fairness, the authors do employ a couple of tricks like extrapolating from income inequality to get around this.
-So, even if we the data is pretty bad… then the difference between the Netherlands and the other countries is so big that surely the Netherlands is still one of the most unequal nations right?
+### Wealth Inequality Data Sucks
+
+The first reason is that, in contrast to your income, a lot of your wealth is not recorded. These old watches, that old painting you got from your grandparents, your 10 year old car, your 5 year old bed, your 6 year old Yacht & don’t forget about the old family farm. What is the value of all of that? Sure, you could make a reasonable estimate. But that is really a lot of work. What you earned last year though… now that is much easier to estimate. And it is for that very practical reason that most countries tax your income rather than your wealth. And thanks to these income tax records, economists know quite a bit about income inequality in most countries.
+
+On the other hand, there are only a few countries, like the Netherlands, which have fairly good data on wealth inequality. And indeed, the Credit Suisse report recognizes this and states that while data quality for the Netherlands is good. Data quality of highly unequal Brazil, for example, is … Poor… and the data quality of highly highly unequal Nigeria is very poor…. Also, the report states that none of the countries, not even the Netherlands, have provided data that is ‘very good…’ Now in all fairness, the authors do employ a couple of tricks like extrapolating from income inequality to get around this. So, even if we the data is pretty bad… then the difference between the Netherlands and the other countries is so big that surely the Netherlands is still one of the most unequal nations right?
+
 Well no… no it doesn’t
-You see, there is also a very big part of wealth inequality that can be measured but is just as problematic because it is really really volatile… I’m of course talking about your investment such as stocks, bonds, crypto currencies, and houses. Now, since government statisticians can hardly update the exact portfolio of everyone every year, if there big trends in some countries, these tend to totally mess up their wealth inequality numbers.
-And this is exactly what happened for the Netherlands, as EE notes, in the Netherlands even the less wealthy often do own a house thanks to readily available mortgages…,
-“Up until recently.. people were able to borrow as much as a 100% of the value of their house as a mortgage
 
-That means if a young couple is just starting out with a 300,000 Euro family home. They could borrow an extra 30,000 Euros on top of it and suddenly find themselves
+### The Problem of Volatile Assets
 
-a negative net-worth of 30,000 Euros. This means that a good chunk of the population is under water on their homes
+You see, there is also a very big part of wealth inequality that can be measured but is just as problematic because it is really volatile… I’m of course talking about your investment such as stocks, bonds, crypto currencies, and houses. Now, since government statisticians can hardly update the exact portfolio of everyone every year, if there big trends in some countries, these tend to totally mess up their wealth inequality numbers. And this is exactly what happened for the Netherlands, as EE notes, in the Netherlands even the less wealthy often do own a house thanks to readily available mortgages…,
+
+> Up until recently.. people were able to borrow as much as a 100% of the value of their house as a mortgage That means if a young couple is just starting out with a 300,000 Euro family home. They could borrow an extra 30,000 Euros on top of it and suddenly find themselves a negative net-worth of 30,000 Euros. This means that a good chunk of the population is under water on their homes
 
 Okay, to be honest, I didn’t quite understand this segment… I mean people tend to borrow more than their house is worth so that they can spend it on home improvement… immediately driving up the value of the house… After all, that is what house flipping is all about. So, then you are not really underwater … Therefore, it's not really why people get into trouble with their mortgage. No, people with high mortgages get into trouble when house prices start to fall.
+
 And that is the first thing that really messed up Credit Suisse’s wealth inequality calculations for the Netherlands. After all, the report is about 2019, and anyone who knows the Dutch housing market will tell you that it is very unlikely that a lot of people’s houses are ‘underwater’ in 2019 because house prices have been going up like crazy over the past couple of years…
+
 However, you will find in the Credit Suisse report that they used total wealth estimates from 2019, along with the distribution of wealth from 2015….
+
 When house prices were at their lowest and a lot of the poorest people had highly negative wealth.
-And this makes a big difference! For comparison, the official statistics agency of the Netherlands, doesn’t do this, and finds a much lower wealth inequality in the Netherlands for 2018. If we use their numbers, in the EE inequality ranking, the Netherlands would drop from 1st place to 53rd place…
+
+And this makes a big difference! For comparison, the official statistics agency of the Netherlands, doesn’t do this, and [finds a much lower wealth inequality in the Netherlands](https://www.cbs.nl/nl-nl/nieuws/2020/49/minder-vermogensongelijkheid-bij-meetellen-pensioenvermogen#:~:text=In%202018%20was%20de%20Gini,weinig%20vermogen%20hebben%20wel%20pensioenvermogen.) (Gini = 0.77) for 2018. If we use their numbers, in the EE inequality ranking, the Netherlands would drop from 1st place to 53rd place…
+
+### The Pensions Problem
+
 But, that is not where this story ends… because even that number came under fire from Dutch economists who had this very important criticism that wealth inequality calculations don’t take into account pension wealth. Now, for some countries this doesn’t really matter since they have no obligatory government pension plans for the working class and poorer people therefore save money themselves for their pension. And if they do, that money shows does show up in the wealth inequality calculations. But, the Dutch pensions don’t.
+
 This again has a massive impact on the wealth inequality numbers.
-If pensions are taken into account the Netherlands drops all the way to 146th place in EE’s ranking of a 169 countries. And that is way more in line with its ranking on the income inequality scale.
-So, yeah … the Netherlands is not the most unequal country in the world… far from it. First, wealth inequality statistics cannot and should not be compared because they are so unreliable. However, if you are going to do that and don’t use distributional data from 2015, the Netherlands
-makes it to 55th place of most unequal countries and if then you take into account pension wealth (which I think we should) it drops to the 146th place.
+
+If pensions are taken into account the Netherlands drops all the way to 146th place ([Gini = 0.65](https://www.cbs.nl/nl-nl/nieuws/2020/49/minder-vermogensongelijkheid-bij-meetellen-pensioenvermogen#:~:text=In%202018%20was%20de%20Gini,weinig%20vermogen%20hebben%20wel%20pensioenvermogen.)) in EE’s ranking of a 169 countries. And that is way more in line with its ranking on the income inequality scale.
+
+**So, yeah … the Netherlands is not the most unequal country in the world… far from it.**
+
+First, wealth inequality statistics cannot and should not be compared because they are so unreliable. However, if you are going to do that and don’t use distributional data from 2015, the Netherlands makes it to 55th place of most unequal countries and if then you take into account pension wealth *(which I think we should)* it drops to the 146th place. *But, to be honest, if the data for the Netherlands was so bad, the rest probably are too*.
+
 However, then this brings us back to the rest of EE’s video…. Which spends its time first explaining why the Netherlands is supposedly so unequal. But okay, even after all of these corrections wealth inequality is still likely a fair bit higher than income inequality, so the rest of EE’s story might still give us some insights on why wealth inequality is so much higher than income inequality in the Netherlands… , even though we have such high taxes…
-“right?”
-So, okay EE’s first explanation about why wealth inequality is so high in the Netherlands is about housing wealth
-And as you saw in the debunking of the Credit Suisse numbers: high household debt means that in countries like Denmark, Sweden and the Netherlands in times of high house prices wealth inequality is relatively mild while in times of low house prices, wealth inequality skyrockets.
-And on top of that in the Netherlands:
-(EE says) Borrowers can and in fact
 
-are encouraged allowed to borrow over 100% of the value of their home as a mortgage
+## Taxes & Wealth Inequality
 
-The national mortgage guarantee is a government programme that ensures bank loans on homes.
+So, okay EE’s first explanation about why wealth inequality is so high in the Netherlands is about housing wealth. And, as you saw in the debunking of the Credit Suisse numbers, high household debt means that in countries like Denmark, Sweden and the Netherlands in times of high house prices wealth inequality is relatively mild while in times of low house prices, wealth inequality skyrockets. On top of that in the Netherlands, EE says:
 
-So, if the borrower doesn't repay the bank and the bank can't make all of the money it needs back from repossessing the home
+> Borrowers can and in fact are encouraged allowed to borrow over 100% of the value of their home as a mortgage The national mortgage guarantee is a government programme that ensures bank loans on homes. So, if the borrower doesn't repay the bank and the bank can't make all of the money it needs back from repossessing the home. Oh well, it can just get a cheque from the government for the difference, essentially making home loans completely risk free. This is actually accelerated by the fact that mortgage repayments, in the Netherlands, are tax deductible
 
-Oh well, it can just get a cheque from the government for the difference
+While, these policies are often a bit more nuanced and most of them have been [abolished](https://www.iamexpat.nl/housing/dutch-mortgages/mortgage-rules-netherlands) or [scaled down](https://www.orangetax.com/2019/12/27/no-more-mortgage-deduction-as-of-2023/) in recent years, these are indeed some reasons that we still have such [high household debt](https://www.dnb.nl/en/current-economic-issues/mortgage-debt/) in the Netherlands.
 
-, essentially making home loans completely risk free.
-
-This is actually accelerated by the fact that mortgage repayments, in the Netherlands, are tax deductible
-
-While, these policies are often a bit more nuanced and most of them have been abolished or scaled down in recent years, these are indeed some reasons that we still have such high household debt in the Netherlands.
 However, as EE notes.
 
-Its not the whole story. In fact, this extreme wealth inequality might actually be the outcome of matured capitalism
+> Its not the whole story. In fact, this extreme wealth inequality might actually be the outcome of matured capitalism
 
 Now, having corrected the numbers, we already know that matured capitalism doesn’t necessarily lead to extreme wealth inequality.
-Which is great news by the way!
+
+**Which is great news by the way!**
+
 As capitalists, we are not doomed after all.
+
 However, EE has another interesting story for us that might explain why wealth inequality is still much higher than income inequality and that is the power of old money… As EE explains, as a country with a long capitalist tradition:
-(EE says) The Netherlands pioneered incredibly modern ideas like stock markets, limited liability companies,
 
-and speculative assets as far back as the 1600s.
+> The Netherlands pioneered incredibly modern ideas like stock markets, limited liability companies, and speculative assets as far back as the 1600s. Beyond this the Netherlands has not really experienced much in the way of a shake up of this system in the past four hundred years. This isn't to say that there weren't wars and coups and all of that good stuff. This is modern history Europe we are talking about. I mean, come on. But, it is more so that if you were wealthy in the nation, you could continue to pass this money down and down generations. Without the same fear of it being guillotined somewhere down in the family tree. That's why the money in the Netherlands is old money.
 
-Beyond this the Netherlands has not really experienced much in the way of a shake up of this system in the past four hundred years.
+This sounds quite convincing doesn’t it? However, the problem is that there really isn’t a lot of evidence to support it.
 
-This isn't to say that there weren't wars and coups and all of that good stuff. This is modern history Europe we are talking about. I mean, come on.
+First of all, the Netherlands ranks [sixth on the social mobility index of the World Economic Forum](https://www.weforum.org/reports/global-social-mobility-index-2020-why-economies-benefit-from-fixing-inequality), meaning that there are few places where people move up and down the social ladder as fast as they do in the Netherlands.
 
-But, it is more so that if you were wealthy in the nation, you could continue to pass this money down and down generations
+Second, if we look at [Quote magazine’s list of 500 wealthiest Dutch people](https://www.quotenet.nl/quote-500/a34548717/quote-500-2020-de-rijkste-nederlanders/), sure… you will find that there is some old money there… in fact,
+EE says:
 
-Without the same fear of it being guillotined somewhere down in the family tree.
+> If we were to look at the wealthiest person Charlene de Carvalho-Heineken … This lady is 66 years old and is, surprise surprise, in the beer business. Although, she didn't found the company. Neither did her farther, or his father, and in fact even her great grandfather didn't actually found the Heineken brand as we know it today. He simply convinced his already wealthy parents to buy a brewery with a family fortune that he just slapped his name on.
 
-That's why the money in the Netherlands is old money.
-(Joeri) And yeah, this sounds quite convincing doesn’t it? However, the problem is that there really isn’t a lot of evidence to support it.
-First of all, the Netherlands ranks sixth on the social mobility index of the World Economic Forum, meaning that there are few places where people move up and down the social ladder as fast as they do in the Netherlands.
-Second, if we look at Quote magazine’s list of 500 wealthiest Dutch people, sure… you will find that there is some old money there… in fact,
-(EE) If we were to look at the wealthiest person Charlene de Carvalho-Heineken …
+However, the problem here is that … if you just move down that list a little bit… You’ll find that the next wealthiest people…. Are [Frits Goldschmeding](https://en.wikipedia.org/wiki/Frits_Goldschmeding) a self-made entrepreneur, the sister Wessels, who did inherit their money … but from their [entrepreneurial father who was the son of a carpenter](https://nl.wikipedia.org/wiki/Dik_Wessels) …. And then we have [Jumbo owner Karel van Eerd](https://www.businessinsider.nl/jumbo-familie-van-eerd/) …. Who is again a self-made entrepreneur and then [Arnout Schuijff](https://www.forbes.com/profile/arnout-schuijff/?sh=438708f4682f) who is also a self-made entrepreneur. So that story about old money doesn’t seem to hold up. … But okay, while focussing a large amount of his story on the Heineken empire, EE does imply that actually…..
 
-This lady is 66 years old and is, surprise surprise, in the beer business.
+> It’s the hundreds of other families that intentionally slip below the radar
 
-Although, she didn't found the company. Neither did her farther, or his father, and in fact even her great grandfather didn't actually found the Heineken brand
+However, if that is true, they are all flying pretty far below the radar, because there are only [5 names of Nobility on the Quote 500](https://www.adelinnederland.nl/adel-de-quote-500-van-2020/) list and, and even if we go a bit deeper, there are only 19 (out of 500 by the way!) who can be traced back to Nobility…
 
-as we know it today. He simply convinced his already wealthy parents to buy a brewery with a family fortune that he just slapped his name on.
+So, while this whole dynastic wealth story sounds good for an ‘old’ capitalist country like the Netherlands …. There is just not a lot of evidence that dynastic families are much more important in the Netherlands than they are in other … younger countries such as [the United States](https://www.businessinsider.com/us-income-inequality-record-high-generational-wealth-2019-9?international=true&r=US&IR=T).
 
-(Joeri) However, the problem here is that … if you just move down that list a little bit… You’ll find that the next wealthiest people…. Are Frits Goldschmeding a self-made entrepreneur, the sister Wessels, who did inherit their money … but from their entrepreneurial father who was the son of a carpenter …. And then we have Jumbo owner Karel van Eerd …. Who is again a self-made entrepreneur and then Arnout Schuijff who is also a self-made entrepreneur.
-So that story about old money doesn’t seem to hold up. … But okay, while focussing a large amount of his story on the Heineken empire, EE does imply that actually…..
-(EE) It’s the hundreds of other families that intentionally slip below the radar
-
-(Joeri) However, if that is true, they are all
-flying pretty far below the radar, because there are only 5 names of Nobility on the Quote 500 list and, and even if we go a bit deeper, there are only 19 (out of 500 by the way!) who can be traced back to Nobility…
-So, while this whole dynastic wealth story sounds good for an ‘old’ capitalist country like the Netherlands …. There is just not a lot of evidence that dynastic families are much more important in the Netherlands than they are in other … younger countries such as the United States
 And, that brings us to the last point of EE’s video.
-Taxes….
+
+**Taxes….**
+
 Now, if we go back to the Heineken family fortune in EE’s video he says…
-(EE) That family fortune dated back to the Dutch East India company
 
-What this means is that income taxes will do absolutely nothing to control this wealth.
+> That family fortune dated back to the Dutch East India company. What this means is that income taxes will do absolutely nothing to control this wealth. Income… pff.. this family hasn’t earned an income since Napoleon was in diapers.
 
-Income… pff.. this family hasn’t earned an income since Napoleon was in diapers
+However, again, if we dig a little deeper, this just doesn’t hold up … I’m guessing that he refers here to the fact that most of their income comes from dividends and capital gains on their Heineken shares? But, actually, the [Dutch tax system takes this into account](https://broadstreet.nl/taxation-of-assets-box-3-in-the-netherlands/) to a certain extend. You see, even though in the Netherlands you don’t pay a wealth tax directly, you still have to report your financial assets to the tax authority who will assume that they yield you a certain income every year and then you have to pay taxes on that….
 
-However, again, if we dig a little deeper, this just doesn’t hold up …
-I’m guessing that he refers here to the fact that most of their income comes from dividends and capital gains on their Heineken shares?
-But, actually, the Dutch tax system takes this into account to a certain extend. You see, even though in the Netherlands you don’t pay a wealth tax directly, you still have to report your financial assets to the tax authority who will assume that they yield you a certain income every year and then you have to pay taxes on that….
 This is actually pretty smart… because this makes these taxes harder to dodge.
+
 But hey, these incomes are assumed to be quite low … even though in reality they might not be. So, that actually might explain why wealth inequality in the Netherlands, while low compared to other countries, is quite a bit higher than income inequality.
+
 And yeah, that’s why I think Economics Explained should change the title of his video to:
-“How the Dutch Economy precisely shows that we can reduce wealth inequality with taxes…”
-And if you agree with that, then it would be great if you could help this video gain some traction by liking or sharing it on social media.
+
+**“How the Dutch Economy precisely shows that we can reduce wealth inequality with taxes…”**
+
+And if you agree with that, then it would be great if you could help this post (and the video that goes with it on YouTube) gain some traction by liking or sharing it on social media.
+
 And hey, at this point, I’ll just repeat that this was a good faith response and that I just think EE had to dig a little bit deeper when it comes to his sources, and I really don’t think he made these mistakes on purpose.
-But, perhaps, I missed something as well… Therefore, I’ve added all of my sources to the description of this video… go check them out… and let me know if you think I missed something, and …. consider subscribing to the channel if you are into monetary and macroeconomics.
