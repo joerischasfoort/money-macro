@@ -10,10 +10,13 @@ Welcome to our website, here you can subscribe to our YouTube channel by using t
   <iframe src="https://www.youtube.com/embed/kWWTUONsgvA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-Subscribe to the channel by using the button below:
+Visit to the channel by using the button below:
 
 <script src="https://apis.google.com/js/platform.js"></script>
 
+And consider subscribing by using the button below: 
+
 <div class="g-ytsubscribe" data-channelid="UCCKpicnIwBP3VPxBAZWDeNA" data-layout="full" data-count="default"></div>
+
 
 The channel is hosted by [Dr. Joeri Schasfoort](https://joerischasfoort.github.io/), who is currently a post-doctoral research fellow at the University of Cape Town.
