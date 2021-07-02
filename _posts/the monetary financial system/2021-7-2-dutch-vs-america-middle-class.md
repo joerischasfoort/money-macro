@@ -2,7 +2,6 @@
 layout: post
 title: The Dutch vs. American Economic Model: the Complete Middle Class Experience
 ---
-
 Both the US and Dutch economic models are those of mixed capitalist economies where the means of production are largely in the hands of private parties and where governments also play an important role by regulating markets, providing essential social services, and re-distributing wealth via taxes.
 Beyond that, these two systems couldn’t be more different. With the American welfare state being one of the most barebones in the Western world,
 While, despite years of budget cuts, the Dutch economic model still has a reputation for being far more generous with extending benefits and services than the American system.
@@ -34,6 +33,7 @@ So, with further ado…. Let the competition begin.
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/FuZ5WO8xoks" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
 
 # Round 1: Wages & Cost of Living
 
@@ -117,8 +117,6 @@ Ask Econoboi: who won and why…
 Joeri: who won and why?
 -	Interesting that effective tax rates are so similar for the Middle class…  Still well known U.S. has higher disposable income…
 -	Netherlands wins because… you should consider how much you pay in expenses. Life here is cheaper
-
-
 
 # Round 2: falling out of the middle class
 
