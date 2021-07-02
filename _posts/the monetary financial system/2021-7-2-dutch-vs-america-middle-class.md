@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Dutch vs. American Economic Model - the Complete Middle Class Experience
+title: The Dutch versus American Economic Model - the Complete Middle Class Experience
 ---
 Both the US and Dutch economic models are those of mixed capitalist economies where the means of production are largely in the hands of private parties and where governments also play an important role by regulating markets, providing essential social services, and re-distributing wealth via taxes.
 Beyond that, these two systems couldn’t be more different. With the American welfare state being one of the most barebones in the Western world,
@@ -38,7 +38,9 @@ So, with further ado…. Let the competition begin.
 # Round 1: Wages & Cost of Living
 
 Working respectable middle class jobs, both Joe and Jolien are provided by their systems the median wage.
+
 The median wage refers to the wage earned by the middle person in the income distributions. This metric is generally considered the most reliable indicator for a middle class income because the average wage is skewed too much by the ultra-rich.
+
 For [(Joe 989 (2021) * 52)](https://www.bls.gov/news.release/pdf/wkyeng.pdf) that median wage is roughly 51k. Using the latest (May 25th 2021) Euro to Dollar exchange rate ([1.23](https://www.exchangerates.org.uk/EUR-USD-exchange-rate-history.html)), Jolien earns roughly [45k](https://www.bespaarinfo.nl/modaal-inkomen/) every year. To obtain these earnings, both work 40 hour full-time weeks.
 
 However, as you know, the tax authorities want their cut… So, let’s look at wages minus income taxes next. In economics, this is known as disposable income.
@@ -87,7 +89,7 @@ These systems have a fundamentally different structure. In the U.S. there is pub
 On the other hand, in the Netherlands….. there is only private healthcare insurance…
 Yes, you heard that right, only private healthcare insurance in the Netherlands.
 
-And for her private healthcare insurance plan…. Jolien pays roughly 1.8k USD per year (source).
+And for her private healthcare insurance plan…. Jolien pays roughly [1.8k USD](https://www.consumentenbond.nl/zorgverzekering/zorgverzekering-2021#:~:text=Zorgpremie%20basisverzekering,-De%20zorgpremie%20is&text=Maar%20de%20hoogte%20van%20de,12%20november%20de%20uiteindelijke%20premies.) per year.
 
 So, why is private healthcare insurance so much cheaper in the Netherlands?
 
@@ -95,13 +97,13 @@ Well, the reason for this is that the Dutch healthcare system is heavily regulat
 
 As a consequence of this smart design, the Dutch health insurance market is highly competitive and prices are therefore relatively low…. Although most Dutchies would argue that they are still way too high.  
 
-Indeed, this is reflected by the fact that the USA, which has a younger population, spends roughly 16.8% of GDP on healthcare, whereas the Netherlands spends only 10%. Furthermore, every Dutch citizens has health insurance while 8% of the American populace is not insured (source).
+Indeed, this is reflected by the fact that the USA, which has a younger population, spends roughly [16.8% of GDP](https://data.worldbank.org/indicator/SH.XPD.CHEX.GD.ZS?locations=US) on healthcare, whereas the Netherlands [spends only 10%](https://data.worldbank.org/indicator/SH.XPD.CHEX.GD.ZS?locations=NL). Furthermore, every Dutch citizens has health insurance while 8% of the American populace is [not insured](https://www.census.gov/library/publications/2020/demo/p60-271.html).
 
 So, with the healthcare insurance system clearly cheaper in the Netherlands, there is one essential cost that we yet have to discuss: the costs of paying off all your student debt.
 
-Because of their modest background, both Joe and Jolien had to borrow quite a bit to pay for their university education. As a consequence, Joe ended up with a student debt of 33k dollars. And, while the average college is of similar quality in the Netherlands, they are significantly cheaper. Therefore, Jolien’s average student debt in the Netherlands is 17k USD. Furthermore, in the Netherlands, she borrowed from the state at 0.0% (source) interest while U.S. Joe borrowed from the federal government, at the lowest possible rate of 2.75% interest (CNBC).
+Because of their modest background, both Joe and Jolien had to borrow quite a bit to pay for their university education. As a consequence, Joe ended up with a student debt of 33k dollars. And, while the average college is of similar quality in the Netherlands, they are significantly cheaper. Therefore, Jolien’s average student debt in the Netherlands is 17k USD. Furthermore, in the Netherlands, she borrowed from the state at [0.0%](https://duo.nl/apps/rentepercentage/index.html) interest while U.S. Joe borrowed from the federal government, at the lowest possible rate of [2.75% interest](https://www.cnbc.com/select/average-interest-rate-on-private-and-federal-student-loans/).
 
-Now, since both wanted to repay their student debt in 20 years, on average Joe ended up paying $178 (source) per month = 2146 USD annually. Meanwhile, Jolien pays only (17k / 241) $70 per month, which translates to 846 USD annually.
+Now, since both wanted to repay their student debt in 20 years, on average Joe ended up paying [$178](https://www.savingforcollege.com/calculators/loan-calculator) per month = 2146 USD annually. Meanwhile, Jolien pays only (17k / 241) $70 per month, which translates to 846 USD annually.
 And with that….. we have come to the end of this round..  
 
 Even though Joe earns a higher wage and has higher disposable income after taxes, Jolien has quite a bit more discretionary income in the Netherlands at 11k USD per year compared to almost 10k in the USA.
@@ -121,37 +123,46 @@ Joeri: who won and why?
 # Round 2: falling out of the middle class
 
 Okay, so the American model is down …. But far from out. Next, let’s introduce a little drama into the lives of our middle class heroes by assuming that both the United States and the Netherlands are hit by a global recession.
-Due to the uncertainty of the recession, unfortunately, Joe’s employer will have to ‘let him go.’ On the other side of the Atlantic, Jolien’s temporary contract will also not renewed for the same reason.
-Having both been raised with the typical middle class attitude of working hard to better their situation, both Joe and Jolien immediately try to pick themselves up by accepting any job, even if it means looking for a minimum wage job at a large fast-food chain and look for better opportunities from there.
-As expected, Jolien’s new job pays her considerably less at the minimum wage, which is $12 per hour, and which translates to an income of almost $25k per year. That a bit more than half of what she earned previously. Luckily the Dutch economic system will make her life considerably cheaper. Not only does her effective tax rate drop to 6.4%, she now is qualified for cheaper social housing, rent subsidies and health insurance subsidies.
-Let’s compare this to Joe’s situation in America.
-There, the minimum wage in the state of Georgia is equal to the Federal minimum wage at $7.25 per hour. This translates to a much lower $15.08k [$7.25 * 40 * 52] annual wage in Joe’s new job as a burger flipper.
-Sure, this is still above the federal poverty level of $12880 per year (source).
 
-But, Joe now earns a lot less than Jolien. And sure, Joe’s tax bill will also be greatly reduced. But, in the lower class, his effective tax rate is now much higher than that of Jolien at 11.8%. To offset all of this, the American economic model does now qualify him for the government sponsored healthcare insurance plan called Medicaid. However, unlike in the Netherlands social housing is scarce and that limited social housing that is there has a very bad name. On top of that, Joe has much less scope to cut his transport costs since public transport is much worse in the U.S. So, it’s safe to say that, he is now considerably worse off than Jolien.
+Due to the uncertainty of the recession, unfortunately, Joe’s employer will have to *‘let him go.’* On the other side of the Atlantic, Jolien’s temporary contract will also not renewed for the same reason.
+
+Having both been raised with the typical middle class attitude of working hard to better their situation, both Joe and Jolien immediately try to pick themselves up by accepting any job, even if it means looking for a minimum wage job at a large fast-food chain and look for better opportunities from there.
+
+As expected, Jolien’s new job pays her considerably less at the minimum wage, which is $12 per hour, and which translates to an income of almost [$25k](https://www.rijksoverheid.nl/onderwerpen/minimumloon/bedragen-minimumloon/bedragen-minimumloon-2021) per year. That a bit more than half of what she earned previously. Luckily the Dutch economic system will make her life considerably cheaper. Not only does her effective tax rate drop to [6.4%](https://www.knab.nl/financieel-overzicht/inkomstenbelasting-2021), she now is qualified for cheaper social housing, rent subsidies and health insurance subsidies.
+
+Let’s compare this to Joe’s situation in America.
+
+There, the minimum wage in the state of Georgia is equal to the Federal minimum wage at $7.25 per hour. This translates to a much lower $15.08k ($7.25 * 40 * 52) annual wage in Joe’s new job as a burger flipper.
+Sure, this is still above the federal poverty level of [$12880 per year](https://www.peoplekeep.com/blog/2021-federal-poverty-guidelines).
+
+But, Joe now earns a lot less than Jolien. And sure, Joe’s tax bill will also be greatly reduced. But, in the lower class, his effective tax rate is now much higher than that of Jolien at [11.8%](https://smartasset.com/taxes/income-taxes#ld0ame9HpQ). To offset all of this, the American economic model does now qualify him for the government sponsored healthcare insurance plan called Medicaid. However, social housing is much more scarce than in the Netherlands and that limited social housing that is there has a very bad name. On top of that, Joe has much less scope to cut his transport costs since public transport is much worse in the U.S. So, it’s safe to say that, he is now considerably worse off than Jolien.
+
 But, okay, you could argue well the recession will end, it sucks for Joe, but it’s not the end of his middle class life right? And even if the recession doesn’t end any time soon, he could just learn a different profession…? Perhaps he should just learn how to code?
 
 Well, sadly, Joe has now come across a problem that is not always highlighted in the media and in the economics profession… and that is that falling too far down the economic ladder might make it impossible to climb back out for two very practical reasons:
-1.	The first reason is that Joe won’t have time anymore to ‘learn how to code’ because he needs to work 60 hour work weeks just to feed himself and / or his family. He now belongs to a group known as the ‘working poor’ and that group has become much larger recently in the United States.
+
+1.	The first reason is that Joe won’t have time anymore to ‘learn how to code’ because he needs to work 60 hour work weeks just to feed himself and / or his family. He now belongs to a group known as the [working poor](https://www.bls.gov/opub/reports/working-poor/2018/home.htm) and that group has become much larger recently in the United States.
 2.	The second reason is that Joe might not be able to get a job anymore because ….. Joe can no longer can afford to live close to job centres and cannot afford the transportation he needs go to job interviews or remote jobs.
+
 Let’s be clear, these two factors also affect Jolien in the Netherlands. But, they affect her far LESS.
-Because of her much higher discretionary income, Jolien can choose to work part-time in her minimum wage job and use the rest of her time to re-train. Alternatively, she may choose to work 40 hours a week so that she has more money left to pay for specific training. When it comes to the very real issue of transport, this is where Dutch social housing, which is also present in major, very expensive, cities like Amsterdam (source), as well as its extensive public transport system and cycling infrastructure come in.
+Because of her much higher discretionary income, Jolien can choose to work part-time in her minimum wage job and use the rest of her time to re-train. Alternatively, she may choose to work 40 hours a week so that she has more money left to pay for specific training. When it comes to the very real issue of transport, this is where Dutch social housing, which is also present in major, very expensive, cities like [Amsterdam](https://www.woningnetregioamsterdam.nl/nl-NL/Help%20en%20uitleg/Huren%20of%20kopen/Sociale%20huurwoning), as well as its extensive public transport system and cycling infrastructure come in.
 
 Luckily for Joe, the U.S. is not as bad as this yet. But, one thing is for sure, Jolien is much more mobile than Joe and thus has more chances to pick herself up again.
 
 What’s more, Jolien can more easily to take a risk and perhaps start her own business in the Netherlands because the consequences of dropping out of the lower class are, again, much less severe in the Netherlands.
 
 The main reason for that is that even though Jolien was unfortunate enough to get fired, she then was first entitled to between 70-75% of her last earned wage for a period between 3 months to 2 years, depending on how long she worked. What’s more, even though she had to go through the trouble of proving that she realllyyy couldn’t a job for multiple years, she would eventually enter the basic social benefits program that pays her to the tune of roughly 70% of minimum wage. What’s more, while in this program, the Dutch state first allowed her to postpone her student debt payments and later even completely forgave this debt. While this program was no picknick, it did allow her to spend her time looking for new jobs and re-training.
+
 In comparison, not having had the time to re-train, if Joe eventually gets fired as burger flipper, where can he go? And since, the U.S. economic system only awards unemployment benefits for 5 months maximum and at a lower 66% of his previous minimum wage, he has just found himself below the poverty line. And when these unemployment benefits eventually ran out for Joe…he blamed nobody but himself. Ashamed that his family would find out about his failure, he had nothing left but the streets…..
 
 And so that’s where he ended up, under a bridge with dozens of others.
 
-No wonder that, when it comes to social mobility, the Netherlands ranks the 6th …. And the USA the 27th…. (WEF)
+No wonder that, when it comes to [social mobility](http://www3.weforum.org/docs/Global_Social_Mobility_Report.pdf), the Netherlands ranks the 6th …. And the USA the 27th….
 
 Luckily for Joe, if the American economic system doesn’t care about you… your family still might….. and after a couple of months… when Joe looked up…. He saw a familiar face…. Its was his father…. who told him he shouldn’t feel guilty and that he can live back home with his parents for a while….
 Judgement with Econoboi
 
-Who won and why ?
+## Who won and why ?
 
 Econoboi:
 -	The Dutch system is undeniably more generous and supportive in the scenario that a person finds themselves without work or unable to work. As welfare doesn’t appear to discourage significantly people from working to the degree the Dutch have it, the point has to go to the dutch.
@@ -164,44 +175,53 @@ Joeri
 # Round 3 labour market conditions
 
 Okay, so things are starting to look a bit bleak for the American economic system. Let’s be clear … while it was to be expected that falling out of the Middle class is rougher in the USA, the system can make it up by having a better labour market. After all, if Joe really wants to work and can easily find a new job, then it doesn’t really matter that the unemployment benefits are worse.
+
 So, let’s now assume that an economic recovery has finally set in on both sides of the Atlantic. Jolien is ready to transition back to a high paying job and, with his faith in the American dream is shaken, Joe is particularly eager to climb back from his hardship.  
+
 But, with this level of benefits… as Ronald Reagan said surely don’t really want to work at all?
-Welll I couldn’t find that in the data, despite the extensive social safety net, the number of people who can work and actually do, the labour force participation rate, in the Netherlands is actually… higher at 83% versus 78% in the USA (source).
+Welll I couldn’t find that in the data, despite the extensive social safety net, the number of people who can work and actually do, the labour force participation rate, in the Netherlands is actually… higher at [83% versus 78%](https://data.oecd.org/emp/labour-force-participation-rate.htm) in the USA.
 
 Okay, another option might be that employers surely don’t want to work in such a country with this huge benefits system, and so it must be difficult for Jolien to find a job. Well, not if you look at the unemployment statistics.
-In fact, Jolien’s chances are a bit better in the Netherlands, which has an unemployment rate of 3.5% as of 2021, while Joe in the U.S. competes in a labour market with an unemployment rate of 6.1%. That being said, both countries seem to be doing quite a bit better than the average European Union unemployment rate of 8.1%, and much better than for example Spain with a massive unemployment rate of 15.3% (source).  
+In fact, Jolien’s chances are a bit better in the Netherlands, which has an unemployment rate of 3.5% as of 2021, while Joe in the U.S. competes in a labour market with an unemployment rate of 6.1%. That being said, both countries seem to be doing quite a bit better than the average European Union unemployment rate of 8.1%, and much better than for example Spain with a massive unemployment rate of 15.3% [source](https://data.oecd.org/unemp/unemployment-rate.htm#indicator-chart).  
 
 Therefore, eventually, both Joe and Jolien will find a new job and reclaim their old level of income. However, then the question becomes, will they be able to find a high quality job?, meaning that it is stable and has good benefits
 In my research for this video, I discovered that both the Dutch and American systems there are multiple types of work arrangements of which some are clearly more desirable than others …
+
 For example, in the Dutch labour market there are contracts for:
+
 1.	fixed-term employees,
 2.	permanent employees,
 3.	temporary staff via employed via an agency,
 4.	and finally… independent contractors
+
 And here you will see what some call the beauty, and what others might call the wickedness, of economics at work.
 You see, the Dutch model just wanted stability and benefits for Jolien. But, at the same time it wanted to give employers some flexibility to fire Jolien if she was a bad employee or if the business environment really requires it.
 
 But, these two: stability & flexibility are obviously opposites. And that’s how the Dutch ended up with such a fractured labour market. With some contracts really being better than others.
 
-For example, take the first two contracts: they differ in flexibility. Confusingly, the fixed-term contract is the most flexible because …
-as the name suggests
-… it is applicable for a fixed term of … for example 6 months. Then, there is the permanent contract which is …. Permanent, unless there is a really good reason to fire Jolien like her breaking the law, or her misbehaving. But in that case the employer can proof with a whole bunch of paperwork (source).
+For example, take the first two contracts: they differ in flexibility. Confusingly, the fixed-term contract is the most flexible because … as the name suggests … it is applicable for a fixed term of … for example 6 months. Then, there is the permanent contract which is …. Permanent, unless there is a really good reason to fire Jolien like her breaking the law, or her misbehaving. But in that case the employer can proof with a whole [bunch of paperwork](https://www.oecd.org/els/emp/Netherlands-EPL.pdf).
 
 And so, and this is the economics bit, employers had a very strong incentive to get around this pesky permanent contract by giving employees one fixed term contract, and another, and another, and go on and on indefinitely  
-But, that’s not where it stopped. At some point, Dutch employers also convinced the other participants in the economic model, unions and the government, to allow the temporary staff via an agency and independent contractor arrangement which not only allow them to be more flexible but also also allowed them to give these types of workers less benefits.
-But, much to Joliens delight, it seems that employers might have overplayed their hands a little with this increased flexibility as a new deal between unions and employers seems to be inevitable (source).
+But, that’s not where it stopped. At some point, Dutch employers also convinced the other participants in the economic model, unions and the government, to allow the temporary staff via an agency and independent contractor arrangement which not only allow them to be more flexible but also allowed them to give these types of workers less benefits.
+
+But, much to Joliens' delight, it seems that employers might have overplayed their hands a little with this increased flexibility as a new deal between unions and employers seems to be [inevitable](https://www.abu.nl/kennisbank/toekomst-van-werk/ser-advies-geeft-helderheid-over-positie-uitzendwerk/).
 
 That being, said what does the current state of the Dutch labour market mean for Jolien?
+
 Obviously, Jolien wants that sweet sweet permanent contract. Not only will this give her peace of mind, this will also give her tangible benefits like helping her get a higher mortgage or stand up to her boss every once in a while.
-Luckily for her, given that 61% of people (source) who work do have a permanent contract, Jolien still has quite a good shot at getting that sought after permanent contract to ensure her middle class lifestyle for the foreseeable future. And, to be honest, even for Jolien, some flexibility might not be bad because it allows employers to better separate her from bad employees.
+
+Luckily for her, given that [61% of people](https://longreads.cbs.nl/dynamiek-op-de-nederlandse-arbeidsmarkt-2019/arbeidsmarkttransities-in-nederland-een-overzicht/) who work do have a permanent contract, Jolien still has quite a good shot at getting that sought after permanent contract to ensure her middle class lifestyle for the foreseeable future. And, to be honest, even for Jolien, some flexibility might not be bad because it allows employers to better separate her from bad employees.
+
 Alright, now, let’s look at Joe’s position in the United States labour market and compare it to that of Jolien.
-First of all, Joe has to deal with less complexity since, there isn’t a big distinction between permanent and fixed-term contracts in the States since employer might pretty much just fire Joe on the spot and don’t have to justify that choice in most cases (OECD). However, even for employees there is some duality and that is whether or not they work full-time. The reason for this is that if Joe works full-time for his employer he often does qualify for health insurance and other benefits, while if he works part-time, he doesn’t qualify.
+
+First of all, Joe has to deal with less complexity since, there isn’t a big distinction between permanent and fixed-term contracts in the States since employer might pretty much just fire Joe on the spot and don’t have to justify that choice [in most cases](https://www.oecd.org/els/emp/United States.pdf). However, even for employees there is some duality and that is whether or not they work full-time. The reason for this is that if Joe works full-time for his employer he often does qualify for health insurance and other benefits, while if he works part-time, he doesn’t qualify.
 
 You can imagine how this system might be abused
-But, to be fair, just over 33% (28+23mil source) of American workers don’t qualify for these benefits, and of these 51 million unlucky bastards most are actually full-time workers.
-Furthermore, in the U.S. there is also a difference between contractors and employees. However this difference is much more important for Joe since, unlike the Dutch system, the U.S. economic system does not provide good health insurance and other benefits to the middle class, and has delegated this responsibility to employers instead. Therefore, a no-benefits contractor life would be much harder for Joe than for Jolien. However, on the bright side, it does appear that the chance of Joe becoming a contractor is slightly less than for Jolien since, according to some of the latest data, contractors only make up about 6.9% (10.6 million out of 153 total) of the U.S. labour force (source).
+But, to be fair, just over 33% ([28+23mil](https://www.usaretirement.org/millions-american-workers-still-lack-access-401k)) of American workers don’t qualify for these benefits, and of these 51 million unlucky bastards most are actually full-time workers.
 
-Judgement with econoboi
+Furthermore, in the U.S. there is also a difference between contractors and employees. However this difference is much more important for Joe since, unlike the Dutch system, the U.S. economic system does not provide good health insurance and other benefits to the middle class, and has delegated this responsibility to employers instead. Therefore, a no-benefits contractor life would be much harder for Joe than for Jolien. However, on the bright side, it does appear that the chance of Joe becoming a contractor is slightly less than for Jolien since, according to some of the latest data, contractors only make up about 6.9% ([10.6 million out of 153 total](https://www.bls.gov/news.release/conemp.htm)) of the U.S. labour force.
+
+## Judgement with econoboi
 
 So, who won and why?
 Econoboi:
@@ -211,8 +231,10 @@ Joeri:
 -	I’m a bit conflicted here. While I don’t like how fractured the Dutch labour market is… the American market is simpler. Still, the fact that life for American workers is so uncertain doesn’t seem to lead to better outcomes is a big blow.
 
 
-<Dutch economic models wins round 4>
+**Dutch economic models wins round 4**
+
 # Round 4 quality of life
+
 So, yet another blow to the once admired U.S. system. But, so far we have only looked at money money money… what about what that money gets you… quality of life…. Let’s have a look at how comfortable Joe and Joliens respective lives really are.
 
 both Joe and Jolien are now working hard, earning that sweet sweet money and spending what they need to live comfortably….
@@ -228,29 +250,31 @@ For this part, I’m going to compare the economic models based on the following
 5.	Safety
 The free time needed for a healthy work life balance can be divided into two categories:
 
-how much time Jolien and Joe have to relax during workweeks, and how much time they have to go on vacation. When it comes to work life balance, if he wants to, Joe can work on average 34.4 hours per week (source). On the other hand, Jolien is much more likely to find a great work life balance and only work 29 hours per week (source).
+how much time Jolien and Joe have to relax during workweeks, and how much time they have to go on vacation. When it comes to work life balance, if he wants to, Joe can work on average [34.4 hours per week](https://www.thebalancecareers.com/what-is-the-average-hours-per-week-worked-in-the-us-2060631#:~:text=The%20Bureau%20of%20Labor%20Statistics,of%2034.4%20hours%20per%20week.). On the other hand, Jolien is much more likely to find a great work life balance and only work [29 hours per week](https://www.techrepublic.com/article/infographic-this-country-has-the-worlds-shortest-work-week/).
 
 But, that is not everything, what about vacation?
 
-Well, in the United States, while Joe’s employer is not required by law to grant him any days off, he is graciously awarded 10 days off every year. Just enough for that vacation to the Netherlands, where he is likely to bump into Jolien strolling around town because her employers, while required to give her a 20 days off, graciously gave her 25 days off.
+Well, in the United States, while Joe’s employer is not required by law to grant him any days off, he is graciously awarded [10 days off](https://www.cnbc.com/2018/07/05/heres-how-many-paid-vacation-days-the-typical-american-worker-gets-.html) every year. Just enough for that vacation to the Netherlands, where he is likely to bump into Jolien strolling around town because her employers, while required to give her a 20 days off, graciously gave her 25 days off.
 
 Alright, next up healthcare quality.
 
-We have already established that healthcare is much more expensive in the United States. But, is it much better? Well, one thing is for sure and that is that some of the best hospitals in the world can be found in the United States (source). However, the chance of Joe getting treated in one of these is very slim.
+We have already established that healthcare is much more expensive in the United States. But, is it much better? Well, one thing is for sure and that is that some of the best hospitals in the world [can be found in the United States](https://www.newsweek.com/best-hospitals-2021). However, the chance of Joe getting treated in one of these is very slim.
 
 So, let’s look at the average quality of healthcare instead.
 
-On the healthcare quality index (source), the Netherlands ranks 11th and the United States ranks 30th. Also, 3.2 hospital beds per 100k citizens in the Netherlands versus 2.9 in the United States (source). Finally, life expectancy in the Netherlands is a bit higher at 82 years, whereas in the United States it is only 79 years….
+On the [healthcare quality index](https://www.numbeo.com/health-care/rankings_by_country.jsp), the Netherlands ranks 11th and the United States ranks 30th. Also, 3.2 hospital beds per 100k citizens in the Netherlands versus 2.9 in the United States ([source](https://data.oecd.org/healtheqt/hospital-beds.htm)). Finally, life expectancy in the Netherlands is a bit higher at 82 years, whereas in the United States it is only 79 years….
 
 So, Joe pays more and, on average, gets less….
+
 What’s more, say that Joe or Jolien get sick without needing to go to the hospital.
 
 Obviously, this will still have economic consequences since then they might not be able to show up for work.
 
 Not a problem in the Netherlands, where you can get up to 2 years of paid sick days.
+
 Obviously though, Jolien will need to prove that with a doctor’s note. But, while on sick leave, an employer is not allowed to fire Jolien.
 
-On the other side of the Atlantic, Joe is again at a disadvantage, while the family and medical leave act specifies that he can take up to 12 weeks of unpaid leave for e.g. a serious health conditions, there have been quite a few reports of people being fearful to call sick to work (source). Not surprising, since an employer can fire him at will in the U.S.
+On the other side of the Atlantic, Joe is again at a disadvantage, while the family and medical leave act specifies that he can take up to 12 weeks of unpaid leave for e.g. a serious health conditions, there have been quite a few reports of people being [fearful to call sick to work](https://www.thebalancecareers.com/can-you-get-fired-for-calling-in-sick-2063945). Not surprising, since an employer can fire him at will in the U.S.
 
 So, let’s just avoid getting in the hospital then shall we?
 
@@ -260,7 +284,7 @@ Now you might say here well America is this massive nation. What if we look at t
 
 On the other hand, Jolien is more likely to be satisfied by the quality of her drinking water, along with 93% of her fellow citizens, compared to 83% of Americans.
 
-That being said, both Joe and Jolien’s house is almost guaranteed to contain all amenities such as running water and electricity. What’s more, while Joe pays a little bit more for his housing expenses, he has a substantially bigger house, which has on average 2.4 rooms per person. On the other hand, Jolien lives smaller in her 1.9 room apartment (OECD).
+That being said, both Joe and Jolien’s house is almost guaranteed to contain all amenities such as running water and electricity. What’s more, while Joe pays a little bit more for his housing expenses, he has a substantially bigger house, which has on average 2.4 rooms per person. On the other hand, Jolien lives smaller in her [1.9 room apartment](http://www.oecdbetterlifeindex.org/countries/netherlands/).
 
 So, she will likely leave the house more often. Luckily, if she does so during the night, she is more likely to feel safe, along with 82% of her fellow citizens. On the other side of the pond, Joe, along with 26% of his fellow citizens feel considerably less safe. And understandably so, despite all their guns, the homicide rate in the United States is considerably higher at 3.7 per 100k, compared to 0.6 in the Netherlands.   
 But, what does this all mean for happiness?
