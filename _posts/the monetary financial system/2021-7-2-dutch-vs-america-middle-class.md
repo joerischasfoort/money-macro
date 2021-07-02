@@ -10,9 +10,9 @@ But, in the end there is only one thing that matters….
 
 *Do these systems help or hinder the lives of ordinary citizens?*
 
-To answer this question, let me introduce you to two ordinary middle class citizens: Joe and Jolien, two university graduates, working respectable white collar middle class jobs, both patriots, who believe that it's not luck, not inherited wealth, NO! It's hard work that will get you ahead in life in these economic systems. In other words they both believe in the American dream...
+To answer this question, let me introduce you to two ordinary middle class citizens: Joe and Jolien, two university graduates, working respectable white collar middle class jobs, both patriots, who believe that it's not luck, not inherited wealth, NO! It's hard work that will get you ahead in life in these economic systems. In other words they both believe in the American dream.
 
-But, which economic model can actually deliver on that promise? Which will be able to support our hard working protagonists better? To find out... we are going to do something that has never been done before....
+But, which economic model can actually deliver on that promise? Which will be able to support our hard working protagonists better? To find out. we are going to do something that has never been done before.
 
 American YouTuber Econoboi, and myself, will judge the two system in an epic detailed show-off on the following 8 dimensions:
 
@@ -332,7 +332,7 @@ Still, let’s be honest, in both countries having kids will be a detriment for 
 
 So, while Joe admits the extra flexibility that the Dutch economic system would be nice, he’s proposes they rely on the verdict of the Jury on where to move to.
 
-### Judging with econoboi
+## Judging with econoboi
 
 -Where should they move to?
 Econoboi:
@@ -426,7 +426,7 @@ This means that in America … not only are you more likely to either move up or
 So, for Joe and Jolien, it would actually make the most sense to move back to the States just after tasting success in the Netherlands…. That way they could have it both ways…..
 But, does that square with their middle class sense of honour? Before we find out, let’s judge which system did better with Econoboi
 
-##Judge with Econoboi
+## Judge with Econoboi
 
 Who won?
 Econoboi:
