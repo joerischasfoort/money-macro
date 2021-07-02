@@ -292,7 +292,8 @@ But, what does this all mean for happiness?
 Well Jolien gives her life a 7.4, while Joe is still relatively happy and gives his quality of life a 6.9.
 
 But, ofcourse you all care much more about what myself and Econoboi think about that right?
-Judging who won with Econoboi
+
+## Judging who won with Econoboi
 
 Who won?
 Econoboi:
@@ -302,30 +303,32 @@ Joeri:
 
 
 # Round 5 starting a family
+
 Okay, the U.S. is back on its feet with this draw. Let’s now give this comparison a bit of a twist. What do you think of the following scenario?
 
-Let’s assume that,
-using some of those generous generous vacation days,
-Jolien decides to go on a long vacations to America to meet Joe. Naturally, with their shared love for hard work, family and patriotism, they fall in love and eventually… they decide to start a family. However, the problem is now that they have to decide where to raise that family. The USA, or the Netherlands.
-Sure, they could make that decision based on whose relatives are more likeable. But, this is an economics channel. So, they only use economic arguments.
+Let’s assume that, using some of those generous generous vacation days, Jolien decides to go on a long vacations to America to meet Joe. Naturally, with their shared love for hard work, family and patriotism, they fall in love and eventually… they decide to start a family. However, the problem is now that they have to decide where to raise that family. The USA, or the Netherlands.
+
+Sure, they could make that decision based on whose relatives are more likeable. But, this is an economics blog. So, they only use economic arguments.
+
 After all, the last weeks of pregnancy, childbirth, and the first few weeks after are hardly easy to do in the office…. For that reason, in the United States, employers are required, by law, to offer the mother 12 weeks of leave to have and take care of that baby.
+
 Sounds pretty great right?….
-Ehhh no, this is unpaid leave and an estimated 41% of workers are not even covered by the law in question (source)…..
+
+Ehhh no, this is unpaid leave and an estimated [41% of workers are not even covered](https://en.wikipedia.org/wiki/Maternity_leave_in_the_United_States#:~:text=Maternity%20leave%20in%20the%20United%20States%20is%20regulated%20by%20US,with%2050%20or%20more%20employees.) by the law in question.
 
 Also, for daddy… nothing, just work.  
-A bit turned off by this, Joe and Jolien might now turn their gaze towards the Netherlands where every mother will get 6 weeks of leave before and 10 weeks after giving birth. During this time, Jolien will receive 100% pay (source) from her employer, which will in turn be compensated by the government. Furthermore, father Joe can get up to 1 week fully paid leave after the baby is born and, optionally, 5 more with a 70% pay (source).
 
-Okay, baby out…. A good night of sleep and back to work…
+A bit turned off by this, Joe and Jolien might now turn their gaze towards the Netherlands where every mother will get 6 weeks of leave before and 10 weeks after giving birth. During this time, Jolien will receive [100% pay from her employer](https://www.ondernemenmetpersoneel.nl/administreren/vakantie-en-verlof/zwangerschapsverlof-5-vragen-en-antwoorden#:~:text=Ja.,procent%20van%20het%20zogeheten%20maximumdagloon%20.), which will in turn be compensated by the government. Furthermore, father Joe can get up to 1 week fully paid leave after the baby is born and, optionally, 5 more with [70% pay](https://kandoor.nl/blog/vaderschapsverlof-alles-ook-verandering-in-2020/).
 
 Let’s be honest, having a young child will impact the career of Jolien and Joe well after these first few weeks. So, what are the possibilities for working less in the United States and in the Netherlands?
 
-First, it is very much possible, and quite acceptable to employers if Jolien, as a young mother desires to work on a part-time basis, it is also, but to a lesser extent possible for Joe to do this as a father in the Netherlands. Where it is now becoming more common to have a daddy day every week. At the same time, in the United States, part-time work is starting to become more accepted as well. But, it’s far from being as common for young parents as it is in the Netherlands (source).
+First, it is very much possible, and quite acceptable to employers if Jolien, as a young mother desires to work on a part-time basis, it is also, but to a lesser extent possible for Joe to do this as a father in the Netherlands. Where it is now becoming more common to have a daddy day every week. At the same time, in the United States, part-time work is starting to become more accepted as well. But, it’s [far from being as common](https://www.theatlantic.com/politics/archive/2021/05/why-dont-more-american-moms-work-part-time/618741/) for young parents as it is in the Netherlands.
 
 So, for now it seems logical that Joe and Jolien move to the Netherlands…. However, at that point Joe might ask… well couldn’t we just send our children to day-care?
 
-So, they examine how expensive childcare is and to their surprise, it’s quite expensive in the Netherlands, with it consuming 17% of the average wage. However, in the United States it’s even more expensive at 23% of the average wage (source).
+So, they examine how expensive childcare is and to their surprise, it’s quite expensive in the Netherlands, with it consuming 17% of the average wage. However, in the United States it’s even more expensive at [23% of the average wage](https://data.oecd.org/benwage/net-childcare-costs.htm).
 
-Still, let’s be honest, in both countries having kids will be a detriment for either Jolien’s or Joe’s career, and in both countries it’s more likely to hit that of Jolien. In the USA 20% of parents (source) stop working and in the Netherlands the number is close to that at 15% (source).
+Still, let’s be honest, in both countries having kids will be a detriment for either Jolien’s or Joe’s career, and in both countries it’s more likely to hit that of Jolien. In the USA [20% of parents stop working](https://www.pewresearch.org/fact-tank/2018/09/24/stay-at-home-moms-and-dads-account-for-about-one-in-five-u-s-parents/) and in the Netherlands the number [is close to that at 15%](https://www.nji.nl/nl/Databank/Cijfers-over-Jeugd-en-Opvoeding/Cijfers-per-onderwerp-Werkende-ouders).
 
 So, while Joe admits the extra flexibility that the Dutch economic system would be nice, he’s proposes they rely on the verdict of the Jury on where to move to.
 
@@ -350,12 +353,11 @@ So, you’d think these are a no-brainer.
 
 And they are, in the Netherlands. But, if Joe and Jolien want to live in the US, they need to seriously consider sending their kid to a private school instead. Why? Well because the quality of public schools in the US can vary a lot depending on where you live.
 
-
 To understand why that is, let’s have to look at the economics, and specifically the funding model, of education in America and the Netherlands.
 
-In the United States public schools are funded through local property taxes. On the other hand, in the Netherlands public schools are funded by the national government. This difference is very important because in the USA local funding means that schools in wealthy neighbourhoods have much more money than those in poorer neighbourhoods. Therefore, it makes sense that if Joe and Jolien cannot afford a house in a wealthy neighbourhood, they opt for a private schools instead. And these can be much more expensive, at roughly 15k per year (source).
+In the United States public schools are funded through [local property taxes](https://www.jstor.org/stable/2673252?origin=crossref&seq=1). On the other hand, in the Netherlands public schools are funded by the national government. This difference is very important because in the USA local funding means that schools in wealthy neighbourhoods have much more money than those in poorer neighbourhoods. Therefore, it makes sense that if Joe and Jolien cannot afford a house in a wealthy neighbourhood, they opt for a private schools instead. And these can be much more expensive, at roughly [15k per year](https://www.privateschoolreview.com/tuition-stats/private-school-cost-by-state).
 
-On the other hand, in the Netherlands, thanks to central funding all teachers, no matter where they live, earn the same. Therefore, the Dutch economic system has the opposite problem. Namely, that in wealthy cities, there are often not enough teachers because it’s more difficult to live there on a teacher’s salary (source).
+On the other hand, in the Netherlands, thanks to central funding all teachers, no matter where they live, earn the same. Therefore, the Dutch economic system has the opposite problem. Namely, that in wealthy cities, there are often not enough teachers because it’s more difficult to [live there on a teacher’s salary](https://www.rijksoverheid.nl/onderwerpen/werken-in-het-onderwijs/aanpak-tekort-aan-leraren).
 
 So, this means that typically poorer, rural, areas might have access to better quality schools. Although to be honest, the difference is not big enough yet to avoid the wealthy cities altogether.
 
@@ -367,12 +369,12 @@ In the Netherlands, most higher education institutions are owned by the governme
 
 That’s a lot of money and not all parents are able to afford that for their children.
 
-Let’s contrast this with the USA, where the costs of higher education can set you back a whopping 16k USD at public universities. However, as with high schools, public institutions are often considered inferior. So, what will it cost if Joe & Jolien want that extra push for their child?
+Let’s [contrast this with the USA](https://nces.ed.gov/programs/digest/d16/), where the costs of higher education can set you back a whopping 16k USD at public universities. However, as with high schools, public institutions are often considered inferior. So, what will it cost if Joe & Jolien want that extra push for their child?
 
-Well, private for profit institutions will on average cost $23k per year and if they want their kid to a prestigious private ‘non-profit’ institution like Harvard, MIT or Stanford, this will set them back over 50k per year (source1, source2, source3).
+Well, private for profit institutions will on average cost $23k per year and if they want their kid to a prestigious private ‘non-profit’ institution like [Harvard](https://www.gse.harvard.edu/financialaid/tuition), [MIT](https://web.mit.edu/facts/tuition.html) or [Stanford](https://www.collegesimply.com/colleges/california/stanford-university/price/), this will set them back over 50k per year.
 
 Sure, the most prestigious universities in the world are almost all in the United States….
-However, let’s be honest Joe & Jolien’s kid is extremely unlikely to end up in one (source). No, it’s much more likely for their kid to get a spot at great universities like California State or City University of New York (CalState ranking, CUNY ranking), which are typically ranked lower than most public universities (source) that accept all Dutch kids with good enough grades. On top of that, while Dutch institutions vary in international rankings, this variance is so low that students often base their preferred university choice on which city has the best nightlife (GRONINGUUU).
+However, let’s be honest Joe & Jolien’s kid is [extremely unlikely to end up in one](https://noahpinion.substack.com/p/who-cares-about-the-ivy-league). No, it’s much more likely for their kid to get a spot at great universities like [California State](https://www.timeshighereducation.com/world-university-rankings/california-state-university-los-angeles) or [City University of New York](https://www.timeshighereducation.com/world-university-rankings/cuny-city-college-new-york), which are typically ranked lower than [most public universities](https://www.timeshighereducation.com/student/best-universities/best-universities-netherlands) that accept all Dutch kids with good enough grades. On top of that, while Dutch institutions vary in international rankings, this variance is so low that students often base their preferred university choice on which city has the best nightlife.
 
 And with that picture of how amazing student life can be if we are not in a pandemic, let’s move on to discuss which education system is the winner.
 
@@ -387,25 +389,29 @@ Joeri:
 -	I think Netherlands hands down …
 -	As an academic, I have to recognize that some U.S. universities are leading. Top notch!!! But, … mostly for the upper class, not middle.
 
-Netherlands wins again
+*Netherlands wins again*
+
 So there it is … the discussion has been settled, with the Dutch economic model providing more flexibility for young parents, a cheaper quality public primary and high school system as well as a much more equitable and a cheaper higher education system of very good quality, Joe and Jolien decide to move to the Netherlands…. Were they will raise their newborn daughter Joelle ……
 
 
 # Round 7 moving up in the world
 
 At this point, you might think that the American model is down and out…. But, it’s really not!
+
 After all, one part of the American dream has always been to make it big…. Not just to be respectable in the middle class, but to break out of it and perhaps to even be a superstar….. a high flyer, a baller, if you will.  
 So, let’s see how the two systems stack up when it comes to breaking out of the middle class to the upper class and, perhaps even into the global elite.
-To make this comparison, let’s look at how many people moved out of the middle class and into the upper class in both countries.
-Sadly, the data isn’t perfect here but,
-in the Netherlands, the Middle class has been growing with 2% from 76% in 1991 to 78% in 2013 (source). At the same time, the upper class grew by 3% and the lower class shrunk by 5%. Contrast this to America where from 1971 to 2013 the share of people in the middle class decreased from 61% to 51%, while the upper class grew by 6% and the lower class by 4% (source).
 
-Indeed, it is well known that income inequality in the United States has been rising and is substantially higher than in the Netherlands, where income inequality has actually been falling (source). While you might argue this is bad for the middle class, it could also point to larger upward mobility in the United States as 6% of people broke out of the middle class and into the upper class.
+To make this comparison, let’s look at how many people moved out of the middle class and into the upper class in both countries.
+
+Sadly, the data isn’t perfect here. But, in the Netherlands, the Middle class has been [growing](https://www.pewresearch.org/global/interactives/european-middle-class-calculator/nl/) with 2% from 76% in 1991 to 78% in 2013. At the same time, the upper class grew by 3% and the lower class shrunk by 5%. Contrast this to [America where](https://www.pewresearch.org/social-trends/2020/01/09/trends-in-income-and-wealth-inequality/) from 1971 to 2013 the share of people in the middle class decreased from 61% to 51%, while the upper class grew by 6% and the lower class by 4%.
+
+Indeed, it is well known that income inequality in the United States has been rising and is substantially higher than in the Netherlands, where income inequality [has actually been falling](https://data.worldbank.org/indicator/SI.POV.GINI?locations=NL-US). While you might argue this is bad for the middle class, it could also point to larger upward mobility in the United States as 6% of people broke out of the middle class and into the upper class.
+
 But, there is more to this story, it’s not only that there seems to be more extreme upward and downward mobility in the States the spoils of moving up are also much larger.
 
-To illustrate this, the top 10% of U.S. earners take home a whopping 30% of all income compared to 23% in the Netherlands (source).
+To illustrate this, the [top 10% of U.S. earners take home a whopping 30% of all income compared to 23% in the Netherlands](https://data.worldbank.org/indicator/SI.DST.10TH.10?locations=US-NL).
 
-To see what this means for the middle class, let’s go back to Joe and Jolien. Let’s say that they built a successful company and that they are now earning a very comfortable 200k income annually. In the Netherlands, their effective tax rate would be 44%. However, had they moved back to Atlanta, their tax rate would only have been 31.7% (on 163541 euro) and to make matters even worse, had they moved to Miami Beach, Florida they would only need to pay 26.24% in income taxes (source).
+To see what this means for the middle class, let’s go back to Joe and Jolien. Let’s say that they built a successful company and that they are now earning a very comfortable 200k income annually. In the Netherlands, their effective tax rate would be 44%. However, had they moved back to Atlanta, their tax rate would only have been 31.7% ([on 163541 euro](https://www.knab.nl/financieel-overzicht/inkomstenbelasting-2021)) and to make matters even worse, had they moved to Miami Beach, Florida they would [only need to pay 26.24%](https://smartasset.com/taxes/income-taxes#Hi1z0OyAse) in income taxes.
 
 Another factor is that, if you want to make it big as an entrepreneur…. You also need a big market.
 
@@ -413,7 +419,7 @@ And sure, while Dutch entrepreneurs have access to the massive European market i
 
 Indeed, the results of these factors can clearly be seen if we look at the embodiments of the American dream on steroids… the wealthiest entrepreneurs under 40 in both countries.
 
-Two key facts stand out. First, while most Dutch entrepreneurs have a public education, most American entrepreneurs have been educated at elite private universities and were therefore more likely upper class to begin with. Second, the wealthiest Dutchmen would be small time players in the US … only the wealthiest Dutchman under 40: entrepreneur Paul de Jong (source) would make it into the American top 40 and there he would only make it to the 35th place. The others wouldn’t even be close…
+Two key facts stand out. First, while most Dutch entrepreneurs have a public education, most American entrepreneurs have been educated at elite private universities and were therefore more likely upper class to begin with. Second, the wealthiest Dutchmen would be small time players in the US … only the wealthiest Dutchman under 40: entrepreneur [Paul de Jong](https://pureluxe.nl/2019/11/top-3-miljonairs-bners-2/) would make it into the [American top 40](https://www.forbes.com/40under40/list/) and there he would only make it to the 35th place. The others wouldn’t even be close…
 
 This means that in America … not only are you more likely to either move up or down significantly, if you make it big… you really make it big.
 
@@ -430,7 +436,7 @@ Joeri:
 -	I’d agree that the Dutch experience is more equitable … more fair to those especially from the lower and lower-middle class.
 -	But, if you really want to make it big… you move to the USA. This is still the case. Also, lower taxation of the wealthy means you are more likely to be able to accelerate your growth if you break out.
 
-<Round draw!!>
+*Round draw!!*
 
 # Round 8 Pension systems:
 
@@ -444,32 +450,30 @@ So, once again it’s time for a big decision.
 Where to retire?
 
 To be honest, purely based on movies and video games, I just have this idealised vision of retiring one day in sunny Miami.
-<clips hitman & dirty grandpa … scarface>
+
 But okay this is an economics channel that takes itself somewhat seriously. So, let’s ask ourselves how much pension money did Joe and Jolien end up accruing?
 
 Well, most of that accruing was done by Jolien in the Netherlands where the pension system works as follows:
 
-The government provides a basic pension for everyone. The height of this pension is simply based on how many years you have lived in the Netherlands. Therefore, Jolien will receive the full state pension of roughly $1,514 per month, or just around 70% of average earnings before retirement (source). Joe will also receive some state pension from the Dutch system. But only for the years he lived in there.
+The government provides a basic pension for everyone. The height of this pension is simply based on how many years you have lived in the Netherlands. Therefore, Jolien will receive the full state pension of roughly $1,514 per month, or just around [70% of average earnings](https://www.cbpp.org/social-security-benefits-are-lower-than-in-many-other-developed-nations-0) before retirement. Joe will also receive some state pension from the Dutch system. But only for the years he lived in there.
 
-In comparison, the United States has social security, which acts as a state pension. The difference with the Dutch pension though is that how much you get depends on what you earned in your life (source) rather than the years that you lived in the country. So, the U.S. state pension is higher for the rich than for the poor, and can be zero, if you failed to get employment during your working life (source). Furthermore, for the average Joe, U.S. social security though is not as generous as the Dutch state pension and (source) provides roughly just under 40% of average earnings before retirement (source).
+In comparison, the United States has social security, which acts as a state pension. The difference with the Dutch pension though is that how much you get [depends on what you earned in your life](https://www.ssa.gov/pubs/EN-05-10070.pdf) rather than the years that you lived in the country. So, the U.S. state pension is higher for the rich than for the poor, and can be zero, if you failed to [get employment during your working life](https://www.aarp.org/retirement/social-security/questions-answers/collecting-benefits-without-paying-into-social-security.html). Furthermore, for the average Joe, [U.S. social security](https://www.cbpp.org/research/social-security/top-ten-facts-about-social-security) though is not as generous as the Dutch state pension and provides [roughly just under 40%](https://www.cbpp.org/social-security-benefits-are-lower-than-in-many-other-developed-nations-0) of average earnings before retirement.
 
 But, let’s move on, while Joe did not build up any pension benefits during his time as a burger flipper, he did build up some private benefits while working his middle class job in the States in the form of a 401k plan.
 
 The 401k plan has taken the United States by storm (source) and it works like this.
 
- An employee can, without paying income taxes on it, put a certain part of their income in a 401k savings account every month. This savings account is invested in financial markets., the hight of his current monthly benefits therefore depend on how well financial markets have done over the last years. Because the monthly contributions of these plans are known while the benefits are uncertain, this type of plan is also known as a defined contributions plan.
+An employee can, without paying income taxes on it, put a certain part of their income in a 401k savings account every month. This savings account is invested in financial markets. The height of his current monthly benefits therefore depend on how well financial markets have done over the last years. Because the monthly contributions of these plans are known while the benefits are uncertain, this type of plan is also known as a defined contributions plan.
 
-Contrast this to Joliens pension, which like most Dutch schemes (source) was a defined benefits plan.
+Contrast this to Joliens pension, which like [most Dutch schemes](https://www.pensioenfederatie.nl/website/the-dutch-pension-system-highlights-and-characteristics) was a defined benefits plan.
 
 Which, you guessed it, means that her monthly benefits, which she will receive every month once she has retired, have been defined rather than her contribution when she works.
 
- This means that, if financial markets do poorly, in the Netherlands a big political storm will rage because this means that the pension contributions of all current workers might need to be increased. Another difference with Joe’s 401k is that Jolien’s employer has also contributed to the scheme, although that could be why her wage was on average a bit lower. Also, unlike Joe, Jolien did in fact contribute a bit to her pension plan during her time working her minimum wage job.  
+This means that, if financial markets do poorly, in the Netherlands a big political storm will rage because this means that the pension contributions of all current workers might need to be increased. Another difference with Joe’s 401k is that Jolien’s employer has also contributed to the scheme, although that could be why her wage was on average a bit lower. Also, unlike Joe, Jolien did in fact contribute a bit to her pension plan during her time working her minimum wage job.  
 
-Finally, I found out that while the US spends more on pensions than the Netherlands (source) elderly poverty is still much lower in the Netherlands at 3.1% compared to 23.1% in the States (source),
+Finally, I found out that while the US spends [more on pensions than the Netherlands](https://data.oecd.org/socialexp/pension-spending.htm#indicator-chart) elderly poverty is still [much lower in the Netherlands](https://www.oecd-ilibrary.org/sites/fb958d50-en/index.html?itemId=/content/component/fb958d50-en) at 3.1% compared to [23.1% in the States](https://www.oecd-ilibrary.org/sites/fb958d50-en/index.html?itemId=/content/component/fb958d50-en).
 
-So, which has the better pension system? This is the last category I will discuss with Econoboi… and it is the one that will decide
-whether Joe and Jolien will sail away into the sunset on the Frysian lakes or from Miami beach.
-<judge with Econoboi>
+So, which has the better pension system? This is the last category I will discuss with Econoboi… and it is the one that will decide whether Joe and Jolien will sail away into the sunset on the Frysian lakes or from Miami beach.
 
 ## Who won?
 Econoboi:
