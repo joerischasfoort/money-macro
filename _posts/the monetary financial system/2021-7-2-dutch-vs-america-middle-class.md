@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Dutch vs. American Economic Model: the Complete Middle Class Experience
+title: The Dutch vs. American Economic Model - the Complete Middle Class Experience
 ---
 Both the US and Dutch economic models are those of mixed capitalist economies where the means of production are largely in the hands of private parties and where governments also play an important role by regulating markets, providing essential social services, and re-distributing wealth via taxes.
 Beyond that, these two systems couldn’t be more different. With the American welfare state being one of the most barebones in the Western world,
