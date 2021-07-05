@@ -14,11 +14,8 @@ Visit to the channel by using the button below:
 
 <script src="https://apis.google.com/js/platform.js"></script>
 
-And consider supporting the channel on [Patreon]() and / or subscribing by using one of the buttons below:
-
-<a href="https://www.patreon.com/bePatron?u=57814094" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+And consider supporting the channel on [Patreon](https://www.patreon.com/moneymacro) and / or subscribing by using the button below:
 
 <div class="g-ytsubscribe" data-channelid="UCCKpicnIwBP3VPxBAZWDeNA" data-layout="full" data-count="default"></div>
-
 
 The channel is hosted by [Dr. Joeri Schasfoort](https://joerischasfoort.github.io/), who is currently a post-doctoral research fellow at the University of Cape Town.
