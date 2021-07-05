@@ -14,7 +14,9 @@ Visit to the channel by using the button below:
 
 <script src="https://apis.google.com/js/platform.js"></script>
 
-And consider subscribing by using the button below: 
+And consider supporting the channel on [Patreon]() and / or subscribing by using one of the buttons below:
+
+<a href="https://www.patreon.com/bePatron?u=57814094" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
 <div class="g-ytsubscribe" data-channelid="UCCKpicnIwBP3VPxBAZWDeNA" data-layout="full" data-count="default"></div>
 
