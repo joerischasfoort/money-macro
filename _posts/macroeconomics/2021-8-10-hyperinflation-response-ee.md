@@ -244,12 +244,12 @@ That being said, if you are interested in why economists are genuinely fearful o
 
 Other Sources:
 
-- Hungarian hyperinflation: https://www.journals.uchicago.edu/doi/abs/10.1086/261182
-- Yuguslavia hyperinflation 1: https://www.sciencedirect.com/science/article/pii/S0147596799915779
-- Yuguslavia hyperinflation 2: https://www.ceeol.com/search/article-detail?id=917280
-- Weimar hyperinflation: https://www.jstor.org/stable/2601130
-- Zimbabwe hyperinflation: http://mises-media.s3.amazonaws.com/qjae14_3_3.pdf
-- Zimbabwe hyperinflation 2: https://www.elibrary.imf.org/view/journals/087/2010/006/article-A001-en.xml
+- Hungarian hyperinflation: [link](https://www.journals.uchicago.edu/doi/abs/10.1086/261182)
+- Yuguslavia hyperinflation 1: [link](https://www.sciencedirect.com/science/article/pii/S0147596799915779)
+- Yuguslavia hyperinflation 2: [link](https://www.ceeol.com/search/article-detail?id=917280)
+- Weimar hyperinflation: [link](https://www.jstor.org/stable/2601130)
+- Zimbabwe hyperinflation: [link](http://mises-media.s3.amazonaws.com/qjae14_3_3.pdf)
+- Zimbabwe hyperinflation 2: [link](https://www.elibrary.imf.org/view/journals/087/2010/006/article-A001-en.xml)
 
 Data sources:
 - Industrial production USA: FRED/IPB50002N
