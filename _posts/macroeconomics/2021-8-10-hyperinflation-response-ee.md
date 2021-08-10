@@ -21,15 +21,15 @@ Alright, EE starts the video with a super engaging introduction, stating that th
 
 Then, he poses three central questions:
 
-1. When does inflation become an unsolvable problem?
+- When does inflation become an unsolvable problem?
 
 Weirdly enough, EE doesn’t really answer this question in his video. So, I guess I will have to do that for him…. But, he does imply that hyperinflation would be right around the corner in any normal country because asset prices have been going up like crazy.
 
-2. Why do people think the USA is immune from these problems?
+- Why do people think the USA is immune from these problems?
 
 Here, EE suggests that people think the USA is immune from this because the Dollar is the global reserve currency … but, that we should be careful about how long this will protect the USA from hyperinflation.
 
-3. How can people protect themselves from hyperinflation?
+- How can people protect themselves from hyperinflation?
 
 Finally, here, EE not only advices us to invest in properties and companies, but to do that using borrowed money… After all that money won’t be worth anything anymore soon anyway.
 
@@ -97,11 +97,11 @@ Okay, again… .this sounds logical right??… but does it hold up if we dig a l
 
 Ehh yeah, there are at least two….
 
-1. In the historical hyperinflation episodes… it was only supply that fell… but, not demand. In other words, cruise ships are empty now… but that is also because people now don’t want to go on a cruise ship…. On the other hand, French troops taking German industry by force did not coincide with a drop in demand for these products.
+- In the historical hyperinflation episodes… it was only supply that fell… but, not demand. In other words, cruise ships are empty now… but that is also because people now don’t want to go on a cruise ship…. On the other hand, French troops taking German industry by force did not coincide with a drop in demand for these products.
 
 Of course, these differences has massive implications for inflation because it means that yes…. Production fall… but velocity also takes a massive hit… So, overall prices don’t have to rise.
 
-2. The second point is that if your productive sector gets occupied, taken away to a foreign country, or is forcefully evicted from their lands…. it wouldn’t easily bounce back. On the other hand, during the pandemic …. Your production also takes a hit…. But, your productivity CAPACITY is still there!!!
+- The second point is that if your productive sector gets occupied, taken away to a foreign country, or is forcefully evicted from their lands…. it wouldn’t easily bounce back. On the other hand, during the pandemic …. Your production also takes a hit…. But, your productivity CAPACITY is still there!!!
 
 Okay, so here EE’s theory is not complete. But, what about the data? To find out if my argument holds up better than those of EE, I did some research and looked up data on production in the USA and indeed…. I found this graph which shows that, when EE published in his video, it was already clear that the US economy was producing roughly as much as it did before Covid.
 
