@@ -171,7 +171,7 @@ Desperately trying to proof that EE’s isn’t just making stuff up, I decided 
 
 However, then EE says:
 
-> EE: … CPI … normally the value of these items (in CPI) is highly correlated in the short to medium term with these other assets (stocks & houses).
+> CPI: normally the value of these items (in CPI) is highly correlated in the short to medium term with these other assets (stocks & houses).
 
 And again, technically this is correct… When I did my calculations… I found that, in the USA, the CPI does indeed correlate with housing prices….. But, that is because they are both equally affected by inflation…… However, EE then goes on to give the example that
 
@@ -213,7 +213,7 @@ If that happens, and the US political system is still in gridlock… this could 
 
 Okay, I am going to keep this one short for you…. EE proposes that the
 
-“EE: Traditional answer would be metals…. Productive real estate or stocks. Or new-age solutions are crypto …”
+> Traditional answer would be metals…. Productive real estate or stocks. Or new-age solutions are crypto …”
 
 And then comes up with a unique solution that I really have never heard of before… ‘shorting currency.’ Which basically means … borrowing a currency and using it to buy real estate or stocks….
 
@@ -221,7 +221,7 @@ And then comes up with a unique solution that I really have never heard of befor
 
 Also, when EE proposes that ….
 
-“EE: imagine you buy a house with leverage in Weimar Germany in 1920…. 17:05 fast forward two years and hyperinflation has gripped the nation… Hyperinflation happens… and that … all kinds of issue …. But you now have a place to live for a price of a marble. This is a very extreme and oversimplified example….”
+> imagine you buy a house with leverage in Weimar Germany in 1920…. 17:05 fast forward two years and hyperinflation has gripped the nation… Hyperinflation happens… and that … all kinds of issue …. But you now have a place to live for a price of a marble. This is a very extreme and oversimplified example….”
 
 Oefff, this is more than an oversimplification… there are so many complicating factors that make it extremely unlikely that if you follow EE’s example would crash and burn…. For starters:
 
