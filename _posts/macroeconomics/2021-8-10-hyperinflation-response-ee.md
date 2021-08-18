@@ -103,7 +103,7 @@ Of course, these differences has massive implications for inflation because it m
 
 - The second point is that if your productive sector gets occupied, taken away to a foreign country, or is forcefully evicted from their lands…. it wouldn’t easily bounce back. On the other hand, during the pandemic …. Your production also takes a hit…. But, your productivity CAPACITY is still there!!!
 
-Okay, so here EE’s theory is not complete. But, what about the data? To find out if my argument holds up better than those of EE, I did some research and looked up data on production in the USA and indeed…. I found this graph which shows that, when EE published in his video, it was already clear that the US economy was producing roughly as much as it did before Covid.
+Okay, so here EE’s theory is not complete. But, what about the data? To find out if my argument holds up better than those of EE, I did some research and looked up data on production in the [USA](https://fred.stlouisfed.org/series/IPB50002N) and indeed…. I found this graph which shows that, when EE published in his video, it was already clear that the US economy was producing roughly as much as it did before Covid.
 
 However, there is more to EE’s argument that could lead to hyperinflation in the US… because according to him..
 
@@ -139,7 +139,7 @@ So, then if EE’s says…….
 
 > If this set of circumstances sounds familiar…
 
-My response would be …. No not really, because while the US has seen an increase in the money supply…. It’s not by as much as you made it out to be … and while it did also see a fall in production, its productive capacity is still largely intact. Furthermore, because of the pandemic, demand for luxury cruises and air travel has fallen along with supply, and finally, there was no capital flight…
+My response would be …. No not really, because while the US has seen an increase in the money supply…. It’s not by as much as you made it out to be … and while it did also see a [fall in production](https://fred.stlouisfed.org/series/IPB50002N), its productive capacity is still largely intact. Furthermore, because of the pandemic, demand for luxury cruises and air travel has fallen along with supply, and finally, there was no capital flight…
 
 But limited money printing and stimulus could still lead to hyperinflation down the road right? And EE’s other questions…. are still very interesting … So, let’s see if they hold up any better.
 
@@ -203,7 +203,7 @@ Why is that important? Well, because this means that there is much more demand f
 
 The value of American money depends on the productive capacity of the planet more so than the productive capacity of the states…. This does genuinely give American dollars some resistance to depreciation. But, it is not limitless. And it also doesn’t protect the United States from a situation where the entire global economy is impacted like let’s say a global pandemic…
 
-Here, it sounds to me like EE is implying that the global production capacity has been reduced thanks to the pandemic…. Again, this claim can easily be verify this by looking at production numbers in the two the main industrial centres of the world, Europe and China and the outcome is that nope…. After a big dip, production was already back above its pre-pandemic level when EE released his video.
+Here, it sounds to me like EE is implying that the global production capacity has been reduced thanks to the pandemic…. Again, this claim can easily be verify this by looking at production numbers in the two the main industrial centres of the world, [Europe](https://www.quandl.com/data/ECB/RTD_M_S0_Y_I_XCONS_X-Euro-area-Industrial-Production-Index-Total-Industry-Index) and [China](https://tradingeconomics.com/china/industrial-production#:~:text=Industrial%20Production%20in%20China%20averaged,percent%20in%20January%20of%201990.) and the outcome is that nope…. After a big dip, production was already back above its pre-pandemic level when EE released his video.
 
 But, even though global production capacity didn’t drop and therefore won’t cause hyper-inflation in the USA, let’s entertain the following scenario. What if, China and Europe get their currency game together and start offering a global currency or that one of the cryptocurrency starts seriously challenging the Dollar.
 
