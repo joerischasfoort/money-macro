@@ -11,7 +11,13 @@ On the one hand, proponents of the ***[commodity theory*** ***of money](https://
 
 But, who is right?
 
-Well.... somewhat anticlimactically, I think both are correct given that there are clear examples of both commodities and credit tokens that have been used as stores of value, units of account, and mediums of exchange. 
+*By the way if you prefer to consume this story in video format, check it out here:*
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/ohM2oVHM2i4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+Well.... somewhat anticlimactically, I think both are correct given that there are clear examples of both commodities and credit tokens that have been used as stores of value, units of account, and mediums of exchange.
 
 So, then the real question becomes, who is more correct?
 
