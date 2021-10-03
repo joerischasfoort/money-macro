@@ -13,12 +13,12 @@ navbar-links:
     - The channel: ""
     - Dr. Joeri Schasfoort: "https://joerischasfoort.github.io/"
 
-avatar: "/img/money_macro.png"
+avatar: "/img/money_macro_new.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
-navbar-col: "#F7BF4F"
+navbar-col: "#EF4A29"
 navbar-text-col: "#404040"
-navbar-children-col: "#fcf7eb"
+navbar-children-col: "#F9EECA"
 page-col: "#fcedce"
 link-col: "#4f88f7"
 hover-col: "#614204"
