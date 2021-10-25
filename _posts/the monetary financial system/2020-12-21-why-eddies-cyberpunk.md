@@ -40,9 +40,3 @@ With the Eddie dominating the international monetary order, it now makes a lot m
 What night city did was just take it one step further and that is adopting a foreign currency as its own. After all, not having to transfer money into local currency at all is very convenient for the mega corporations dominating Night city. For comparison, fully adopting a foreign currency puts Night City in the same monetary category as Panama and Liberia. Two countries that are [fully dollarized in our world](https://www.piie.com/commentary/testimonies/dollarization-emerging-market-economies-and-its-policy-implications-united).
 
 So that’s why Night City uses Eddies and not dollars as their currency of choice.
-
-**If you found this post interesting consider leaving a comment and subscribing to our YouTube channel using the button below**
-
-<script src="https://apis.google.com/js/platform.js"></script>
-
-<div class="g-ytsubscribe" data-channelid="UCCKpicnIwBP3VPxBAZWDeNA" data-layout="full" data-count="default"></div>
