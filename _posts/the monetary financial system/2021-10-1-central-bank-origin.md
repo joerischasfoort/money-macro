@@ -3,13 +3,11 @@ layout: post
 title: Why Europe Invented Central Banking
 ---
 
-Central banks are the supposed champions of both price stability and financial stability....
-
-But, have prices and finance really been very stable? or was the world of money actually more stable before central banking was invented?
+Central banks are the supposed champions of both price stability and financial stability. But, have prices and finance really been very stable? or was the world of money actually more stable before central banking was invented?
 
 Hi, I am Joeri and to find out, I have collected the best works from economic historians and summarized them into what I believe is the true origin story of central banking.
 
-And, to be honest, after doing the research, I am no longer surprised about the popularity of central bank conspiracy theories because early central bankers ..... were indeed a bunch of lying frauds, warring kings, Dutch businessmen only out for themselves, and sometimes even convicted criminals.....
+And, to be honest, after doing the research, I am no longer surprised about the popularity of central bank conspiracy theories because early central bankers were indeed a bunch of lying frauds, warring kings, Dutch businessmen only out for themselves, and sometimes even convicted criminals.
 
 ## Spanish & Italian Public Banks
 
@@ -41,11 +39,11 @@ Well, say that one prominent merchants wanted to pay another. At least one of th
 
 While, still quite a hassle, you can imagine that for large transactions this deposit money was still a lot easier than using bags of coins that all needed to be counted.
 
-Especially, since there were many coins in circulation with different values. So, nothing wrong with these public deposit banks and the honest people that ran them then. Well, not so fast
+Especially, since there were many coins in circulation with different values. So, nothing wrong with these public deposit banks and the honest people that ran them then. Well, not so fast!
 
 In the research I read, it states that in practice the full reserve rule was frequently broken... especially when there was a public emergency... for example... When the Taula de Valancia was restructured in 1613 it came to light that it had made several illegal advances to city officials and even illegal loans to the city itself.
 
-So, then you could say that these Southern European deposit banks were in fact the first central banks since they did two things that define what a central bank is. They issued currency ... and ... even though it was illegal ... they provided credit to the state...
+So, then you could say that these Southern European deposit banks were in fact the first central banks since they did two things that define what a central bank is. They issued currency and even though it was illegal they provided credit to the state.
 
 But, since this was on such a small scale, and outside of their mandate, I consider them the ancestors of modern central banks... not the first central banks themselves.
 
@@ -53,7 +51,7 @@ No, for the next stage in the evolution of central banking, we need to go to my 
 
 ## The Bank of Amsterdam
 
-The year is 1609 ... roughly 30 years after the founding of the Dutch Republic.... Dutch trade with the Baltic nations was flourishing but cloth importers were demanding monetary reform...
+The year is 1609, roughly 30 years after the founding of the Dutch Republic. Dutch trade with the Baltic nations was flourishing but cloth importers were demanding monetary reform...
 
 Why?
 
@@ -95,7 +93,7 @@ Sure, you could argue that that is a tiny detail because the Netherlands was jus
 
 So, even though it was not the first central bank, it did inspire a Latvian born citizen of Amsterdam by the name of Johan Palmstruch to create the first central bank.....  
 
-## The Sveriges Riksbank (price stability)
+## The Sveriges Riksbank
 
 Now, Johan was a special type of entrepreneur, you know the kind that found himself imprisoned in Amsterdam for 'unknown reasons', and the kind that moved abroad to Sweden immediately when he was [released in 1646](https://sok.riksarkivet.se/sbl/Presentation.aspx?id=8037). And with him, he brought a suspicious wealth of knowledge about economics, finance, and specifically the workings of the Bank of Amsterdam.
 
@@ -109,13 +107,13 @@ However, that is where his triumphant story ends. Johan was a rooky central bank
 
 However, having experienced the benefits of both deposit money and not having to borrow from wealthy individuals, the Swedish state took over the Banco Stockholm in 1668 and rebranded the Sveriges Riksbank (literaly Swedish State Bank). A bank that provided financial and banking services for the **Swedish nation**.... And that last part is why, technically the Swedish and not the Dutch, invented central banking.
 
-But, did having a central bank bring price and financial stability to Sweden? Well, that is not immediately clear, if we look a historical time series of inflation in Sweden... we [don't see a clear effec](https://www.scb.se/en/finding-statistics/statistics-by-subject-area/prices-and-consumption/consumer-price-index/consumer-price-index-cpi/pong/tables-and-graphs/consumer-price-index-cpi/inflation-in-sweden/)t. You could even argue that prices got less stable in spite of price stability being at the center of the Riksbank design right from the start with its stated [mission](https://www.riksbank.se/en-gb/about-the-riksbank/history/historical-timeline/1600-1699/sveriges-riksbank-is-founded/) to "maintain the domestic coinage at its right and fair value."
+But, did having a central bank bring price and financial stability to Sweden? Well, that is not immediately clear, if we look a [historical time series](https://www.riksbank.se/globalassets/media/forskning/monetar-statistik/volym1/8.pdf) of inflation in Sweden... we [don't see a clear effec](https://www.riksbank.se/globalassets/media/forskning/monetar-statistik/volym1/8.pdf)t. You could even argue that prices got less stable in spite of price stability being at the center of the Riksbank design right from the start with its stated [mission](https://www.riksbank.se/en-gb/about-the-riksbank/history/historical-timeline/1600-1699/sveriges-riksbank-is-founded/) to "maintain the domestic coinage at its right and fair value."
 
 One reason for this might have been that the central bank was able to provide much cheaper credit to the state ... mainly used to Finance some of Sweden's 17th, century wars. And while you could argue that this extended the lifespan of the Swedish Empire which had already peaked before the establishment of the Riksbank, the Riksbank was never able to rival the power of the Bank of Amsterdam at the end of the 17th century Swedish bills of exchange were mainly cleared in Amsterdam even though the bulk of Swedish exports went to England.
 
 So, while the Sveriges Riksbank is technically the first central bank, we need to head to late 17th century England for the next evolution in central banking.  
 
-## The Bank of England (financial stability)
+## The Bank of England
 
 The year is 1688, and England has just been invaded by the Dutch. That's right, the last successful invasion of England was by a Dutch army, led by its ruler William of Orange the third. But, while it pains this Dutch economist to admit it.... this was as much of a coup as it was an invasion since the royal British army actually helped the Dutch invaders to overthrow the British Monarchy and William of Orange to become King William the Third.
 
@@ -135,7 +133,7 @@ Well, not long after the inception of the Bank of England, the UK experienced it
 
 And, as London's financial might grew, so did the frequency of its financial crises. For example in in the crisis of 1793.... West India Merchants got into trouble due to a war with France and went to the Bank of England.. for support ... which they got. But supporting the economy and government while you are tied to gold is tricky.
 
-So, not surprisingly, when gold supplies got low compared to issued notes, the Bank of England had to suspend [convertibility to gold in 1779](https://libertystreeteconomics.newyorkfed.org/2014/09/crisis-chronicles-the-british-export-bubble-of-1810-and-pegged-versus-floating-exchange-rates/). The suspension lasted almost 25 years and so in practice the Bank of England, like the Bank of Amsterdam before it, now issued fiat currency. This allowed it to further support first its (slave trading) merchants in [1799](https://uwe-repository.worktribe.com/OutputFile/7450335), while slowly moving to a lender of last resort function for [banks](https://uwe-repository.worktribe.com/OutputFile/7450335) during the early 19th century.
+So, not surprisingly, when gold supplies got low compared to issued notes, the Bank of England had to suspend [convertibility to gold in 1779](https://libertystreeteconomics.newyorkfed.org/2014/09/crisis-chronicles-the-british-export-bubble-of-1810-and-pegged-versus-floating-exchange-rates/). The suspension lasted almost 25 years and so in practice the Bank of England, like the Bank of Amsterdam before it, now issued fiat currency. This allowed it to further support first its (slave trading) merchants in [1799](https://uwe-repository.worktribe.com/OutputFile/7450335), while slowly moving to a lender of last resort function for [banks](https://uwe-repository.worktribe.com/OutputFile/7450335) during the early 19th cenctury.
 
 Here it should be noted that not all banks were to be saved whatever the cost, since for the longest time the Bank of England followed the rule formulated by Bagehot: central banks should lend early and without limit, to solvent banks, that were able to post good collateral, and at 'high rates.' And with that rule in place, it does appear that financial crises became a thing [of the past](https://www.clevelandfed.org/en/newsroom-and-events/publications/economic-commentary/economic-commentary-archives/2007-economic-commentaries/ec-20071201-a-brief-history-of-central-banks.aspx) under the Bank of England. And actually right up to the second world war.... British prices seemed to be [more stable](https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/1994/inflation-over-300-years.pdf) than in the decade before the Bank of England.
 
