@@ -13,7 +13,7 @@ Well, one reason why Putin cares less about these sanctions is that, unlike Iran
 
 - Massive agricultural sector? Check.
 - Plenty of raw materials? Check.
-- Advanced Information Technology sector? Check.
+- Advanced [Information Technology sector](https://web.archive.org/web/20170303074353/http://leaglobal.com/thought_leadership/SCHNEIDER%20GROUP_IT_RUSSIA.pdf)? Check.
 - State of the art-defence and aerospace industries? Check.
 
 But, you know what, this is not the most important reason that Putin is just not that afraid of Western economic sanctions.
