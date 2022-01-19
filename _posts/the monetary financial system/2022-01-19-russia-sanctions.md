@@ -28,15 +28,15 @@ Well, imagine the West cuts of both Russian firms and banks from its massive fin
 
 No problem, they just turn to the Russian government for a share of that foreign exchange pile.
 
-Or, now imagine that these sanctions lead to a speculative run on the Russian Ruble.
+Or, now imagine that these sanctions lead to a speculative run on the Russian Rubble.
 
-Again, no problem the Russian central bank can just use its vast reserves to buy back Rubles on foreign exchange markets, stopping the fall.
+Again, no problem the Russian central bank can just use its vast reserves to buy back Rubbles on foreign exchange markets, stopping the fall.
 
-But, hold on, hold on, you could now credibly [argue](https://www.tandfonline.com/doi/full/10.1080/13563467.2019.1613349) that, while a bit smaller, Russia also had a significant war chest of foreign reserves when it was hit by economic sanctions after annexing Crimea in 2014. Concretely, these sanctions meant preventing many Western companies from doing business with Russian firms in the energy & defense sector. But, more importantly, it meant that Russian banks were suddenly shut off from Western capital markets.
+But, hold on, hold on, you could now credibly [argue](https://www.tandfonline.com/doi/full/10.1080/13563467.2019.1613349) that, while a bit smaller, Russia also had a significant war chest of foreign reserves when it was hit by economic sanctions after annexing Crimea in 2014. Concretely, these sanctions meant preventing many Western companies from doing business with Russian firms in the energy & defence sector. But, more importantly, it meant that Russian banks were suddenly shut off from Western capital markets.
 
 As a consequence, the Russian economy was faced with a [financial crisis](https://d1wqtxts1xzle7.cloudfront.net/60697939/Causes_and_Consequences_of_the_Russian_Financial_Crisis20190925-80388-b83xwl-with-cover-page-v2.pdf?Expires=1642511137&Signature=CUFUXBmiLsTuX5wc0~VncR91OE6ME9yLsRd~Ypo29clG2M7CCJWZsYI2RI0t5n-AYlZqHHpDWjKgT-nz2dYYJhu21t~Kk~c3FyRt153zFlx9bXVkfjeUbzC81fu6Kwb5r5lkTXff8-lOlnBGT14mF258exkqO9oAmCzC7ALeGArITLLTxI2ZbQfcfSHmRcbERqaI2oUaJ2AgZHgb-N4GQdgG-zevG4zgtolKN8ne9~obLBzF5eb6SRKnp5rz25L~aE1hScbFKOKIkDABpRDOb9tDP5FoSH6KXTsu9~SH7kDHxqIYirhFc-fneLPxfY4jGD7yF-rIFnlpko9ClTI7RQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA), a [run](https://www.xe.com/currencycharts/?from=RUB&to=USD&view=10Y) on the Russian rouble, and, as a result, inflation shooting [up to 16%](https://tradingeconomics.com/russia/inflation-cpi).
 
-For comparison, inflation is 7% today in the USA and people are already losing their freakin minds.
+For comparison, inflation is 7% today in the USA and people are already losing their freaking minds.
 
 And all of this happened in spite of its Russia impressive war chest of foreign reserves.
 
@@ -58,7 +58,7 @@ Finally, while most countries hold their foreign exchange reserves as Dollars.
 
 On [average 60%](https://www.reuters.com/article/global-forex-reserves-idUSKBN2GQ1O6).
 
-Russia has recognized that such assets can easily be blocked or frozen by the U.S. To counter that, it has successfully diversified its war chest. It now only holds 16% of its reserve in Dollar assets. For the rest it holds roughly 32% Euro assets, 13% Chinese Yuans, 6.5% in British Pounds, 10% other currencies, and almost 22% in Gold.
+Russia has recognized that such assets can easily be blocked or frozen by the U.S. To counter that, it has successfully diversified its war chest. It now only holds 16% of its reserve in Dollar assets. For the rest it holds roughly 32% Euro assets, 13% Chinese Yuan, 6.5% in British Pounds, 10% other currencies, and almost 22% in Gold.
 
 But, now you could say... doesn’t that large share of Euro & British pound denominated assets still make Russia vulnerable to the West?
 
@@ -72,7 +72,7 @@ And you know what is strange... even though Russian [gas production](https://twi
 
 And sure, Europeans named Joeri... have no issue turning off the heater... and just sitting out this little winter...
 
-But, the other Europeans.... they like their houses warm and cosy. And with energy prices already sky high, Europe is just in no position to risk loosing access to that cheap Russian gas.
+But, the other Europeans.... they like their houses warm and cosy. And with energy prices already sky high, Europe is just in no position to risk losing access to that cheap Russian gas.
 
 Sure, as is often the case in economics, the long run works differently. I can assure you that, right now!, European nations are scrambling to shift from gas based energy to renewables.
 
