@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Great Inflation Debate: Who is Winning?
+title: The Great Inflation Debate - Who is Winning
 ---
 
 Inflation is back ([USA](https://www.bls.gov/news.release/pdf/cpi.pdf), [EUROZONE](https://www.ecb.europa.eu/stats/ecb_statistics/escb/html/table.en.html?id=JDF_ICP_COICOP_INW))... On that, basically everybody agrees. However, an intense debate is currently raging about whether or not inflation is here to stay or whether it is just a temporary blip.
