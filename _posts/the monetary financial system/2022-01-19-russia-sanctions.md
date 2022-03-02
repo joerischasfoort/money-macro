@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Russia’s Economy is Immune to Western Sanctions
+title: How Russia’s Economy is Shielded from Western Sanctions
 ---
 
 You know, it’s all too easy to dismiss Russia's economy as a retreating one with stagnant [GDP](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?end=2020&locations=RU&start=1988) and a rapidly ageing [population](https://www.worldometers.info/world-population/russia-population/).
@@ -11,7 +11,7 @@ However, if that is really the case, then how is it possible that Putin is so bo
 
 Well, one reason why Putin cares less about these sanctions is that, unlike Iran, Russia's economy is self-sufficient where it matters.
 
-- Massive agricultural sector? Check.
+- Massive agricultural sector? [Check](https://www.ft.com/content/4d925bae-fa89-4e64-9063-0c01e3b5690c).
 - Plenty of raw materials? Check.
 - Advanced [Information Technology sector](https://web.archive.org/web/20170303074353/http://leaglobal.com/thought_leadership/SCHNEIDER%20GROUP_IT_RUSSIA.pdf)? Check.
 - State of the art-defence and aerospace industries? Check.
