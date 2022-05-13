@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Economy of Russia: Rise & Fall of a Superpower
+title: Economy of Russia: Rise and Fall of a Superpower
 ---
 
 # Script Russia’s Economy: Rise & Fall of a Superpower
@@ -39,7 +39,7 @@ Until, a strong leader stood up and [stabilised](https://mpra.ub.uni-muenchen.de
 
 However, it was only during the 1950, that the Russian economy really came into its own. This period which came to be known as the Soviet growth [miracle](https://www.jstor.org/stable/3594504).
 
-This growth miracle was so potent that Nobel winning economist Paul Samuelson, [kept predicting](https://marginalrevolution.com/marginalrevolution/2010/01/soviet-growth-american-textbooks.html) that the Soviet economy would come to surpass that of the United States. 
+This growth miracle was so potent that Nobel winning economist Paul Samuelson, [kept predicting](https://marginalrevolution.com/marginalrevolution/2010/01/soviet-growth-american-textbooks.html) that the Soviet economy would come to surpass that of the United States.
 
 And here you though me predicting that Russia’s war chest would shield it from Western sanctions was bad.
 
