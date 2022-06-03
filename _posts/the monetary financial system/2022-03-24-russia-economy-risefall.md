@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Economy of Russia: Rise and Fall of a Superpower
+title: Economy of Russia - Rise and Fall of a Superpower
 ---
-
-# Script Russia’s Economy: Rise & Fall of a Superpower
 
 Look, we need to talk about Russia’s Economy.
 

@@ -3,7 +3,7 @@ layout: post
 title: Why Russia is Making More Money Than Ever
 ---
 
-What you see here is a [chart](https://twitter.com/RobinBrooksIIF/status/1526557124377169924) of Russia’s foreign currency earnings in April each year since 2007. Usually, Russia earned around 6.7 Billion U.S. dollars more than it spent. However, last April,
+What you see here is a [chart](https://twitter.com/RobinBrooksIIF/status/1530928061180436481) of Russia’s foreign currency earnings in April each year since 2007. Usually, Russia earned around 6.7 Billion U.S. dollars more than it spent. However, last April,
 
 the numbers did not collapse… To the contrary, they increased sevenfold.
 
@@ -119,7 +119,7 @@ The boringly nuanced answer is that it is both an increase in export revenue , n
 
 But, does this mean they can afford a long war?
 
-Well, from a monetary perspective, yes… yes they can. But, that money might ironically be rather useless because they cannot buy and produce the stuff that they actually need to fight that war. 
+Well, from a monetary perspective, yes… yes they can. But, that money might ironically be rather useless because they cannot buy and produce the stuff that they actually need to fight that war.
 
 By the way, if you want to support my work and discuss these and other issues with me in a small
 
