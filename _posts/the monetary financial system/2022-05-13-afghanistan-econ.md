@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Afghanistan is Dirt Poor Again
+title: Why Resource Rich Afghanistan is So Poor
 ---
 
 The beautiful land that you see here is Afghanistan. A land that just so happens to be blessed with a [massive supply](https://www.reuters.com/article/afghanistan-mining/afghan-mineral-wealth-put-at-1-3-trillion-minister-idUKLDE65O0FS20100625) of natural resources. Think copper, gold, [oil](https://www.reuters.com/world/asia-pacific/what-are-afghanistans-untapped-minerals-resources-2021-08-19/), and, a ton of rare earth minerals that are desperately needed for the technology that will help us in the energy transition.
