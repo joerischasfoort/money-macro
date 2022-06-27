@@ -57,6 +57,9 @@ To truly settle this discussion, we need to go one level deeper: to what economi
 
 Discretionary income is the income that you are truly able to spend freely after subtracting all of the expenses that are essential for your survival. Think food, shelter, transportation, clothing, healthcare, and paying off your student debts.
 
+For this next section, I use [this source for NL](https://bettermoneyhabits.bankofamerica.com/en/saving-budgeting/average-household-monthly-expenses) and [this source for USA](https://bettermoneyhabits.bankofamerica.com/en/saving-budgeting/average-household-monthly-expenses) and the exchange rate mentioned before of Euro to dollar rate 25 May 2021 1.23
+.
+
 So, let’s have a look at food first. Here, eating in America is a bit more expensive, with Joe spending almost 5k on food last year compared to Joliens more modest 3.7k in the Netherlands.
 
 Next up, let’s compare housing expenses. Again, Joe here spends a bit more with 13.2k annual compared to the Jolien who spent 13k USD. Now, this really surprised me since house prices are typically a bit higher in the Netherlands and so is rent.
@@ -79,7 +82,7 @@ And sure gas prices in the US are much lower (in May 2021 it was [0.892](https:/
 
 However, thanks to dense cities with great public transport and cycling infrastructure, Jolien does not need to own a car and therefore rents it occasionally for trips to her parents in the countryside. For all other trips she can comfortably use either the massive Dutch public transportation system, her bicycle, or … just walk.
 
-This explains why Jolien’s annual transportation costs were roughly 3.4k USD in the Netherlands versus Joe’s 6.3k dollars in the USA (source).
+This explains why Jolien’s annual transportation costs were roughly 3.4k USD in the Netherlands versus Joe’s 6.3k dollars in the USA ([source]()).
 
 Okay, back to Joe and Jolien and their expensive lives. For the next category of healthcare spending, we need to have a look at the US and Dutch healthcare systems.
 
