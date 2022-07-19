@@ -231,7 +231,7 @@ And remember how the Bank of Japan was trying to shock the economy out of low th
 
 Well, thanks to Abe’s [back and forth on fiscal spending](https://www.ft.com/content/17607a42-517a-11ea-8841-482eed0038b1), inflation expectations hardly moved. Not very surprising since, under Abe government the pace at which government debt increased actually decreased. So, yeah… more bark than bite on this front.  
 
-Alright, lets then move on to the third arrow of Abenomics: structural reforms. To be honest, I don’t like the term structural reforms in economics because it can mean almost anything. But, in this case it meant
+Alright, lets then move on to the **third arrow** of Abenomics: structural reforms. To be honest, I don’t like the term structural reforms in economics because it can mean almost anything. But, in this case it meant
 
 *	Allowing more shareholder activism to increase competition among corporations,
 *	Tax cuts for corporations,

@@ -45,21 +45,15 @@ So, has Russia’s export industry, paradoxically, boomed after sanctions?
 
 To find out, we first need to establish what Russia’s main exports actually are.
 
-If you look at the composition of Russian exports in 2020, you will see that 37% of all of its export revenue come from Oil. Roughly 6% comes from gas 4% from coal, and only 53% from all other exports.
+If you look at the composition of Russian exports in 2020, you will [see that](https://oec.world/en/profile/country/rus) 37% of all of its export revenue come from Oil. Roughly 6% comes from gas 4% from coal, and only 53% from all other exports.
 
-Just for comparison, let’s have a look at the export composition of the United States. While it rivals Russia for oil and gas exports, the diversified character of its economy means that it these categories only account for roughly 12% of its economy.   
+Just for comparison, let’s have a look at the [export composition](https://oec.world/en/profile/country/usa) of the United States. While it rivals Russia for oil and gas exports, the diversified character of its economy means that it these categories only account for roughly 12% of its economy.   
 
 This is why Russia’s economy is sometimes mockingly referred as a glorified [gas station](https://www.businessinsider.com/russian-economy-basically-big-gas-station-harvard-economist-2022-2?r=US&IR=T).
 
 But, for waging a war, it doesn’t really matter what brings in the money. As long as the money keeps coming in.
 
-Anyway, if Russia indeed earned more from energy exports, then there can only be two possible explanations for this:
-
-either the volume of its exports went up
-
-or the price of its exports went up
-
-Most of my non-Russia sources confirmed that the volume of both oil and gas flowing to Europe via pipelines has contracted by roughly 10-20%.
+Anyway, if Russia indeed earned more from energy exports, then there can only be two possible explanations for this: either the volume of its exports went up or the price of its exports went up. Most of my non-Russia sources confirmed that the volume of both oil and gas flowing to Europe via pipelines has contracted by roughly 10-20%.
 
 What’s more many oil shipping companies have voluntarily refused to ship Russian oil to other countries until….
 
@@ -67,11 +61,7 @@ The Greek fleet [stepped](https://twitter.com/RobinBrooksIIF/status/152655712437
 
 And as a consequence, Russian oil shipping volumes are now up a little bit. Although, they are selling at discounted prices compared to the rest of the world, these prices are still higher than what Russia used to sell for.
 
-Similarly, when Russian liquefied natural gas was boycotted by Japan and Korea, [India](https://economictimes.indiatimes.com/industry/energy/oil-gas/india-buyers-grab-discounted-russia-lng-shunned-by-rest-of-world/articleshow/91438534.cms) stepped in to buy it at a discount.
-
-So, sanctions do hurt Russian oil sales. But, the price that they get are still higher thanks to the war.
-
-What’s more, Europe is not buying at a discount.
+Similarly, when Russian liquefied natural gas was boycotted by Japan and Korea, [India](https://economictimes.indiatimes.com/industry/energy/oil-gas/india-buyers-grab-discounted-russia-lng-shunned-by-rest-of-world/articleshow/91438534.cms) stepped in to buy it at a discount. So, sanctions do hurt Russian oil sales. But, the price that they get are still higher thanks to the war. What’s more, Europe is not buying at a discount.
 
 What’s more I can confirm from personal experience that oil and gas prices in Europe are sky high.
 
@@ -79,25 +69,13 @@ And that can explain why Russia is now earning roughly twice as much from its en
 
 So, is it indeed Russian export strength and therefore can Russia keep paying for the war?
 
-Yes, that is definitely part of the story. But, it’s not the whole story.
-
-After all, both oil and gas prices have been at this price point before and then Russia didn’t report these record surpluses.
+Yes, that is definitely part of the story. But, it’s not the whole story. After all, both oil and gas prices have been at this price point before and then Russia didn’t report these record surpluses.
 
 So, perhaps the missing link could be that Russia’s current account surpluses are just an indicating that can no longer import crucial good and services from the west?
 
 ## Russia weak?
 
-Sadly here again, I was hindered by the fact that Russian customs [stopped](https://www.bofit.fi/en/monitoring/weekly/2022/vw202219_3/) reporting crucial import statistics after the war.
-
-Luckily, whatever Russia is importing, someone else it exporting.
-
-And here research revealed that Russia is now importing almost [forty percent less](https://www.bofit.fi/en/monitoring/weekly/2022/vw202219_3/) less from all of its crucial import partners, including China.
-
-And sure, while Russia is fairly self-sufficient in food, minerals, and other necessities,
-
-it is highly reliant on the import of advanced products such as
-
-medicine and machines.
+Sadly here again, I was hindered by the fact that Russian customs [stopped](https://www.bofit.fi/en/monitoring/weekly/2022/vw202219_3/) reporting crucial import statistics after the war. Luckily, whatever Russia is importing, someone else it exporting. And here research revealed that Russia is now importing almost [forty percent less](https://www.bofit.fi/en/monitoring/weekly/2022/vw202219_3/) less from all of its crucial import partners, including China. And sure, while Russia is fairly self-sufficient in food, minerals, and other necessities, it is highly reliant on the import of advanced products such as medicine and machines.
 
 And, if that would only mean that Russians aren’t able to upgrade their phone anymore, that wouldn’t necessarily impact its war paying or waging abilities, now would it?
 
@@ -114,8 +92,6 @@ But so far Bank of Finland research revealed that it has not been v[ery succesfu
 So, what’s really behind Russia impressive current account surpluses?
 
 The boringly nuanced answer is that it is both an increase in export revenue , not due to rising volume. But, due to prices and a at the same time it’s a massive decline in crucial imports.
-
-<Haha. How [absurdly simple](https://www.youtube.com/watch?v=so8cKIiKq7U&ab_channel=TheINTJPerspective). Every problem is absurdly simple when it is explained to you.>
 
 But, does this mean they can afford a long war?
 
