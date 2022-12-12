@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Crypto's Great Financial Crisis: Everything You Need To Know
+title: The Great Crypto Crisis - Everything You Need To Know
 ---
 
 What you just saw here is **the great crypto crisis**.
