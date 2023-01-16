@@ -7,7 +7,7 @@ subtitle: Learn about monetary and macroeconomics.
 Welcome to our website, here you can subscribe to our YouTube channel by using the button below, or browse the [blog](https://www.moneymacro.rocks/blog/) which contains the scripts of all of our YouTube videos.
 
 <div class="video-container">
-  <iframe src="https://www.youtube.com/embed/kWWTUONsgvA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/6IGIp8-kbgM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 Visit to the channel by using the button below:
