@@ -1,12 +1,4 @@
-![RECON logo](img/logo.png)
 
-## Welcome to the development page of the R Epidemics Consortium (RECON) website
-
-For the website itself, go to: http://www.repidemicsconsortium.org
-
-Please address requests via email to Thibaut Jombart ([thibautjombart@gmail.com](thibautjombart@gmail.com)).
-
-# Instructions for editing the website
 
 ## Editing the existing pages
 
