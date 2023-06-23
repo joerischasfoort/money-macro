@@ -3,8 +3,6 @@ layout: post
 title: Economist Fact-Checks Johnny Harris
 ---
 
-# Final Script
-
 Johnny Harris, one of YouTube’s most popular creators has recently started explaining macroeconomics [because](https://youtu.be/6yiLdTAzKMQ?t=1074):
 
 > there’s so many topics here that are kind of gate kept by economists who like to make them really complicated. They are not that complicated. Like we can all understand what this stuff is.
