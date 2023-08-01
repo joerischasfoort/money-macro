@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How China Hides Trillions From America
+---
 
 China has been hiding roughly three trillion Dollars from the United States through its state-owned banks and Belt-and-Road lending initiative. At least, that is if we are to believe groundbreaking new [research](https://thechinaproject.com/2023/06/29/shadow-reserves-how-china-hides-trillions-of-dollars-of-hard-currency/) by economist [Brad Setser](https://www.cfr.org/expert/brad-w-setser) from the Council of Foreign relations. 
 
