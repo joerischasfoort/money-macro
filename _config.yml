@@ -4,7 +4,7 @@
 # baseurl: ""
 
 title: M&M
-description: We are devoted to better understanding monetary and macroeconomics economics.
+description: Keeping you properly up to date about the global economy.
 
 # List of links in the navigation bar
 navbar-links:
@@ -29,7 +29,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want (these appear in the footer).
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: "Joeri Schasfoort"
+  name: "Money & Macro Media, Grotehondstraat 44, 2018 Antwerp, Belgium"
   email: "info@moneymacro.net"
   github: joerischasfoort
   facebook: yourname  # eg. daattali
