@@ -18,4 +18,4 @@ And consider supporting the channel on [Patreon](https://www.patreon.com/moneyma
 
 <div class="g-ytsubscribe" data-channelid="UCCKpicnIwBP3VPxBAZWDeNA" data-layout="full" data-count="default"></div>
 
-The channel is hosted by [Dr. Joeri Schasfoort](https://joerischasfoort.github.io/), who is currently a post-doctoral research fellow at the University of Cape Town.
+The channel is a Money & Macro Media Outlet. Money & Macro Media, Grotehondstraat 44, 2018 Antwerp, is a Belgian based company with a mission to provide high quality information in the social media age.
