@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fragmentation: the future of the global economy
+title: What a Deglobalized World Will Look Like
 ---
 
 The global economy is fragmenting into blocks of countries that are slapping each other with tariffs, restricting trade of crucial goods, and subsidizing their own industries to gain an unfair advantage against other nations. This is a remarkable change from just a couple of years ago when [Russia](https://www.youtube.com/watch?v=xYhg9IJUIgE&ab_channel=euronews) and [China](https://www.youtube.com/watch?v=ysoZgOBxR4E&ab_channel=APArchive) joined the World Trade Organization, and globalization seemed unstoppable. 
