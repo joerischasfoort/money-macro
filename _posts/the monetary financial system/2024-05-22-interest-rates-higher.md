@@ -93,6 +93,6 @@ That being said, I partially agree with professor Summers that factors like degl
 
 But yeah, that is my take. Please, always consider multiple sources before making up your mind about stuff like this, especially when it comes to subjects that are increasingly politicized like inflation. 
 
-If you like this 'multiple sides' type of approach consider supporting the channel by buying me a 'coffee' at https://ko-fi.com/moneymacro or supporting long-term for membership benefits via: https://www.patreon.com/moneymacro
+If you like this 'multiple sides' type of approach consider supporting the channel by buying me a 'coffee' at [ko-fi](https://ko-fi.com/moneymacro) or supporting long-term via [Patreon](https://www.patreon.com/moneymacro)
 
-Finally, to get access to my teaching check out: https://school.moneymacro.net/
+Finally, to get access to my teaching check out [the School of Money & Macro](https://school.moneymacro.net/)
