@@ -1,6 +1,6 @@
 ---
 layout: post
-title: China v the West: is this the start of a second trade war?
+title: China v the West | is this the start of a second trade war?
 ---
 
 In a shocking move, the United States has just slapped a 100% tariff on Chinese electric vehicles, igniting fears of a new and potentially devastating trade war. This follows the 2020 Trump-China trade deal that ended a two-year period of escalating tariffs and restrictions. But now, with [the EU considering](https://www.eiu.com/n/an-eu-china-trade-war-is-brewing/) it s [own tariffs](https://www.europarl.europa.eu/RegData/etudes/ATAG/2023/754553/EPRS_ATA(2023)754553_EN.pdf) against China, and China [vowing to](https://www.bloomberg.com/news/articles/2024-05-14/china-vows-to-take-measure-to-defend-rights-as-us-adds-tariffs) retaliate, the question arises: 
