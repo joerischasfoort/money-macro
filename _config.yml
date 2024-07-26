@@ -8,6 +8,7 @@ description: Keeping you properly up to date about the global economy.
 
 # List of links in the navigation bar
 navbar-links:
+  School: "https://school.moneymacro.net/"
   Blog: "blog"
   About:
     - The channel: ""
