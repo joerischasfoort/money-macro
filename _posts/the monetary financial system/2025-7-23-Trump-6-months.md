@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Trump's trade war | 6 months later
+title: The Trump trade war 6 months later
 ---
 
 Trump’s trade war…… Yes, it’s already been 6 months since Trump kicked off his presidency by announcing tariffs against China, Mexico, and Canada. This triggered a massive fall in the US stock market. But, today, the stock market [is higher t](https://edition.cnn.com/2025/06/27/investing/stock-market-record-dow-sandp?Profile=CNN)han ever, despite Trump [threatening](https://www.nytimes.com/2025/07/07/business/trump-tariffs-trade-deals-august-1.html) more and more tariffs.   
